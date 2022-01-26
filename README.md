@@ -30,9 +30,9 @@ Cuando tengo todos los datos necesarios, hecho todas mis tablas e imagenes de vi
 #### Hypotesis extras.
 
 1. Hipothesis 1: Los ataques de tiburón han sido menos fatales(menos muertes) en los últimos años.(¿comparativa de ratio ataques, muertes?) 
+-  Hipotesis 1-2: El reporte de mujeres se ha dado en el último siglo, ya que estas no estaban vinculadas a practicas en el mar.
 2. Hipotesis 2: Los ataques de tiburón son más recurrentes en los meses de verano. 
-3. Hipotesis 1-2: El reporte de mujeres se ha dado en el último siglo, ya que estas no estaban vinculadas a practicas en el mar.
-4. Hipotesis 2-2: Es el Oceano atlatico más mortifero que el Oceano pacifico? 
+-  Hipotesis 2-2: Es el Oceano atlatico más mortifero que el Oceano pacifico? 
 
 ## Linls~References
 
