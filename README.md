@@ -1,4 +1,4 @@
-[!gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Freygif.com%2Fgif%2Fjaws-tiburon-IgqoVplwqwr8nWs3VK&psig=AOvVaw0LvW6G72Y_CvwSphseWj7e&ust=1643241647853000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDthamOzvUCFQAAAAAdAAAAABAK)
+[!gif](https://i.giphy.com/media/IgqoVplwqwr8nWs3VK/giphy.gif)
 
 
 # Project | data-cleaning-pandas
