@@ -17,8 +17,10 @@ Para llegar a estas dos hipotesis:
     - Categorizar la fatalidad y el genero. 
 
 Hacer limpieza de los datos, para hipotesis 2, `clean-hypo2.ipynb`:
-    - Coger de la fecha, el mes en que ocurrió. Deshechar valores que no tienen mes. 
-    - Utilizar un pais cómo pieza para analisis de las temporadas con más ataques por tiburones.  
+     - Modificar nombre de columnas
+     - Revisar las fechas que me interesan
+     - Coger de la fecha, el mes en que ocurrió. Deshechar valores que no tienen mes. 
+     - Utilizar un pais cómo pieza para analisis de las temporadas con más ataques por tiburones.  
 
 - Cuando tengo todos los datos necesarios, hecho todas mis tablas e imagenes de visualizaciones. `analysis.ipynb`
 
