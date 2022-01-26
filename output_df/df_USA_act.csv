@@ -1,0 +1,832 @@
+Case_number,Date,Year,Type,Country,Area,Location,Activity,Name,Sex,Age,Fatality,Time,Species,Month
+2018.06.09,09-Jun-2018,2018.0,Invalid,USA,Hawaii,"Habush, Oahu",Surfing,John Denges,M,48,N,07h45,,Jun
+2018.05.13.b,13-May-2018,2018.0,Unprovoked,USA,South Carolina,"Hilton Head Island, Beaufort County",Swimming,Jei Turrell,M,10,N,15h00,,May
+2017.12.31,31-Dec-2017,2017.0,Unprovoked,USA,Hawaii,"Hultin's Beach, Oahu",Surfing,Marjorie Mariano,F,54,N,18h00,Tiger shark,Dec
+2017.12.30,30-Dec-2017,2017.0,Unprovoked,USA,California,"Drakes Estero, Point Reyes, Marin County",Surfing,Natalie Jones,F,35,N,12h00,,Dec
+2017.11.18,18-Nov-2017,2017.0,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Kaia Anderson,F,14,N,Late afternoon,,Nov
+2017.10.23.a,23-Oct-2017,2017.0,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Swimming,Susan Peteka,F,60,N,08h00,,Oct
+2017.10.18,18-Oct-2017,2017.0,Unprovoked,USA,Florida,"Lantana Beach, Palm Beach County",Swimming,Carlos Iribam,M,,N,14h30,"Spinner shark, 4 to 5 feet",Oct
+2017.10.09,09-Oct-2017,2017.0,Unprovoked,USA,Hawaii,"Davidsons Beach, Kekaha, Kauai",Surfing,Mitch Milan,M,54,N,18h30,"Tiger shark, 8 to 10 feet",Oct
+2017.10.05,05-Oct-2017,2017.0,Unprovoked,USA,Hawaii,"Kamaole Beach Park, Maui ",Snorkeling,female,F,40,N,12h30,8' shark,Oct
+2017.09.25.b,25-Sep-2017,2017.0,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,Justin White,M,,N,Morning,5' shark,Sep
+2017.09.24.a,24-Sep-2017,2017.0,Unprovoked,USA,Florida,Fort Worth,Surfing,male,M,,N,14h00,4' to 5' shark,Sep
+2017.09.20,20-Sep-2017,2017.0,Unprovoked,USA,Florida,Palm Beach County,Surfing,Richard Inniss,M,,N,Morning,,Sep
+2017.09.16.a,16-Sep-2017,2017.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,28,N,16h30,,Sep
+2017.09.13,13-Sep-2017,2017.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Benjamin Loyd,M,18,N,18h45,5' to 6' shark,Sep
+2017.09.02.c,02-Sep-2017,2017.0,Unprovoked,USA,Florida,"Marathon, Monroe County",Swimming,Ervin Maccarty,M,,N,,Nurse shark,Sep
+2017.09.02.b,02-Sep-2017,2017.0,Unprovoked,USA,Texas,"South Padre Island, Cameron County",Swimming,female,F,,N,,,Sep
+2017.09.02.a,02-Sep-2017,2017.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chase Elmore,M,17,N,10h44,,Sep
+2017.08.10,10-Aug-2017,2017.0,Unprovoked,USA,South Carolina,"Sea Pines Resort, Hilton Head Island, Beaufort County",Swimming,Linton Suttle,M,13,N,13h30,Possibly a juvenile blacktip shark,Aug
+2017.07.14.b,14-Jul-2017,2017.0,Unprovoked,USA,Washington,"South Beach, Westport, Grays Harbor County",Surfing,MK,M,,N,18h30,"White shark, 9'",Jul
+2017.07.09,09-Jul-2017,2017.0,Unprovoked,USA,Florida,"Haulover Beach, Miami-Dade County",Swimming,Elvin Lanza,M,46,N,15h30,"Bull shark, 4' to 5'",Jul
+2017.06.21,21-Jun-2017,2017.0,Unprovoked,USA,South Carolina,"South Forest Beach, Hilton Head Island, Beaufort County",Swimming,Olivia Wallhauser,F,16,N,,,Jun
+2017.06.19,19-Jun-2017,2017.0,Unprovoked,USA,Florida,"Singer Island, Palm Beach County",Surfing,male,M,,N,Morning,,Jun
+2017.06.18.b,18-Jun-2017,2017.0,Unprovoked,USA,South Carolina,"Burkes Beach, Hilton Head, Beaufort County",Swimming,Regan Readnour,F,14,N,,"Bull shark, 4' to 5'",Jun
+2017.06.10.a,10-Jun-2017,2017.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Bryan Brock,M,19,N,10h00,,Jun
+2017.04.29.d,29-Apr-2017,2017.0,Unprovoked,USA,California,"San Onofre, San Diego County ",Swimming,Leeanne Ericson,F,,N,17h34,,Apr
+2017.04.29.b,29-Apr-2017,2017.0,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Surfing,Holly Dyar,F,33,N,11h00,,Apr
+2017.04.14,14-Apr-2017,2017.0,Unprovoked,USA,Hawaii,"Kekaha Beach, Kauai",Surfing,Baboo,M,28,N,09h00,"Tiger shark, 12'",Apr
+2017.04.13,13-Apr-2017,2017.0,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,Keeanan Perry ,M,17,N,13h30,,Apr
+2017.04.12.b,12-Apr-2017,2017.0,Unprovoked,USA,Florida,St. Augustine,Surfing,Kerry Keyton,F,,N,13h45,,Apr
+2017.04.11,11-Apr-2017,2017.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Denise Holz-Oosterveld,F,35,N,16h00,,Apr
+2017.04.10.a,10-Apr-2017,2017.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,Heather Orr,F,21,N,17h00,,Apr
+2017.04.06,06-Apr-2017,2017.0,Unprovoked,USA,Florida,"Daytona, Volusia County",Swimming,Kody Stephens,M,16,N,,,Apr
+2017.04.05,05-Apr-2017,2017.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,Melanie Lawson,F,51,N,13h00,,Apr
+2017.04.02.a,02-Apr-2017,2017.0,Unprovoked,USA,Florida,"Destin, Okaloosa County",Swimming,Caitlyn Taylor,F,17,N,15h00,"Bull shark, 5' to 7'",Apr
+2017.03.27,27-Mar-2017,2017.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Nesbit,M,58,N,10h00,,Mar
+2017.02.11,11-Feb-2017,2017.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,male,M,22,N,13h30,,Feb
+2016.12.27,27-Dec-2016,2016.0,Unprovoked,USA,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",Surfing,Zack Davis,M,16,N,17h00,,Dec
+2016.10.30,30-Oct-2016,2016.0,Unprovoked,USA,Florida,"Mayport Naval Station Beach, Duval County",Surfing,Daniel Adams,M,41,N,Afternoon,,Oct
+2016.10.29,29-Oct-2016,2016.0,Unprovoked,USA,Florida,Mayport Naval Station  Duval County,Surfing,Derrick Shoup,M,42,N,Afternoon,,Oct
+2016.10.21,21-Oct-2016,2016.0,Unprovoked,USA,Hawaii,"Hooipa Beach Park, Maui",Surfing,Federico Jaime,M,36,N,17h00, 6' to 8' shark,Oct
+2016.10.14,14-Oct-2016,2016.0,Unprovoked,USA,Hawaii,"Charlie Young Beach, Kihei, Maui",Snorkeling,female,F,66,N,09h50,,Oct
+2016.10.10,10-Oct-2016,2016.0,Unprovoked,USA,Oregon,"Indian Beach, Ecola State Park, Clatsop County",Surfing,Joseph Tanner,M,29,N,16h00,,Oct
+2016.10.02,02-Oct-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,21,N,11h30,,Oct
+2016.09.18.c,18-Sep-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,16,N,13h00,,Sep
+2016.09.18.b,18-Sep-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chucky Luciano,M,36,N,11h00,,Sep
+2016.09.18.a,18-Sep-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,43,N,10h43,,Sep
+2016.09.17.b,17-Sep-2016,2016.0,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Yuma,M,43,N,After noon,,Sep
+2016.09.07,07-Sep-2016,2016.0,Unprovoked,USA,Hawaii,"Makaha, Oahu",Swimming,Lulu Bagnol,F,51,N,14h30,"Tiger shark, 10'",Sep
+2016.08.29.b,29-Aug-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sam Cumiskey ,M,25,N,15h00,"Bull shark, 6'",Aug
+2016.08.29.a,29-Aug-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,37,N,14h00,,Aug
+2016.08.04,04-Aug-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Tyler,M,22,N,,Blacktip shark,Aug
+2016.07.16.b,16-Jul-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,female,F,9,N,1300,,Jul
+2016.07.15.a,15-Jul-2016,2016.0,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Swimming,male,M,,N,,,Jul
+2016.07.06,06-Jul-2016,2016.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,female,F,42,N,14h30 / 15h30,,Jul
+2016.06.25,25-Jun-2016,2016.0,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Surfing,male,M,11,N,14h34,,Jun
+2016.06.15.b,15-Jun-2016,2016.0,Unprovoked,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,male,M,,N,06h00,3' to 4' shark,Jun
+2016.06.05.b,05-Jun-2016,2016.0,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Swimming,male,M,64,N,08h30,,Jun
+2016.05.29.b,29-May-2016,2016.0,Unprovoked,USA,California,"Corona Del Mar, Newport, Orange County",Swimming,"                        Maria Korcsmaros 
+",F,52,N,16h00,,May
+2016.05.29.a,29-May-2016,2016.0,Unprovoked,USA,Florida,"Neptune, Duval County",Swimming,male,M,13,N,15h45,5' shark,May
+2016.05.22,22-May-2016,2016.0,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,Mary Marcus,F,57,N,12h00,,May
+2016.05.21.b,21-May-2016,2016.0,Unprovoked,USA,Florida,"St. Petersburg, Pinellas County",Swimming,Krystal Magee,F,22,N,18h00,"Bull shark, 4' to 5'",May
+2016.05.21.a,21-May-2016,2016.0,Unprovoked,USA,Florida,"Hugenot Beach , Jacksonville, Duval County",Swimming,female,F,11,N,17h46,,May
+2016.05.18,18-May-2016,2016.0,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Swimming,Mark Wilson,M,48,N,Morning ,"Blacktip shark, 4'",May
+2016.04.23,23-Apr-2016,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kelton Beardall,M,15,N,17h30,,Apr
+2016.03.31,31-Mar-2016,2016.0,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,J. Orr,F,46,N,11h00,,Mar
+2016.01.28,28-Jan-2016,2016.0,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,male,M,,N,14h00,"Reef shark, 5'",Jan
+2016.01.25,25-Jan-2016,2016.0,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai, ",Surfing,Kaya Waldman,F,15,N,11h30,,Jan
+2015.11.16,16-Nov-2015,2015.0,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Aaron Conti,M,,N,Afternoon,,Nov
+2015.11.15.b,15-Nov-2015,2015.0,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Swimming,S.R.B.,F,,N,11h00,,Nov
+2015.11.15.a,15-Nov-2015,2015.0,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,Allen Engelman,M,28,N,,"Spinner shark, 7'",Nov
+2015.11.03,03-Nov-2015,2015.0,Unprovoked,USA,Hawaii,"Kehena Beach, Hawaii",Swimming,Paul O'Leary,M,54,N,11h00,,Nov
+2015.10.21,21-Oct-2015,2015.0,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Michael Salinger,M,21,N,14h30,5' shark,Oct
+2015.10.19,19-Oct-2015,2015.0,Unprovoked,USA,Florida,"Deerfield Beach, Broward County",Surfing,Peter Kirn,M,21,N,13h50,"Spinner shark, 5'",Oct
+2015.10.17.a,17-Oct-2015,2015.0,Unprovoked,USA,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,Tony Lee,M,44,N,11h30,"Tiger shark, 7'",Oct
+2015.10.09.a,09-Oct-2015,2015.0,Unprovoked,USA,Hawaii,"Leftovers, Oahu",Surfing,Colin Cook,M,25,N,10h25,"Tiger shark, 13' ",Oct
+2015.10.04,04-Oct-2015,2015.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Phillip Tarasovic,M,14,N,08h30,"Blacktip shark, 4' to 5'",Oct
+2015.09.29,29-Sep-2015,2015.0,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,"David Morrison, Jr.",M,22,N,16h20,"Blacktip shark, 5' to 6'",Sep
+2015.09.20.d,20-Sep-2015,2015.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,14,N,16h45,juvenile shark,Sep
+2015.09.18,18-Sep-2015,2015.0,Unprovoked,USA,Florida,"Big Talbot Island, Duval County",Swimming,Peter Vergenz ,M,,N,19h00,,Sep
+2015.09.17,17-Sep-2015,2015.0,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Bryan Liebetrau,M,20,N,15h00,,Sep
+2015.08.29.b,29-Aug-2015,2015.0,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,Elinor Dempsey,F,54,N,10h25,"White shark, 11' to 12'",Aug
+2015.08.29.a,29-Aug-2015,2015.0,Unprovoked,USA,California,"Morro Bay, San Luis Obispo County",Surfing,Daniel Phillips,M,21,N,10h00,"White shark, 10' to 12' ",Aug
+2015.08.20,20-Aug-2015,2015.0,Unprovoked,USA,South Carolina,"Murrells Inlet, Georgetown County",Surfing,Dylan Peyton,M,15,N,12h30,4' shark,Aug
+2015.07.26.b,26-Jul-2015,2015.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Shawn Warrilow,M,25,N,19h00,"Blacktip or spinner shark, 4'",Jul
+2015.07-10,10-Jul-2015,2015.0,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Danny Miskin,M,38,N,08h45,"White shark, 7'",Jul
+2015.07.01,01-Jul-2015,2015.0,Unprovoked,USA,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,Andrew Costello,M,68,N,12h10,6' to 7' shark,Jul
+2015.06.27.b,27-Jun-2015,2015.0,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Swimming,John Cole,M,18,N,16h00,Bull shark,Jun
+2015.06.24.b,24-Jun-2015,2015.0,Unprovoked,USA,North Carolina,Surf City,Swimming,Brady Noyes,M,6,N,12h25,Sandtiger shark,Jun
+2015.06.17,17-Jun-2015,2015.0,Unprovoked,USA,Florida,Daytona Beach Shores,Swimming,Gavin Simpson,M,10,N,13h00,,Jun
+2015.05.24,24-May-2015,2015.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,Alysa Whetro,F,13,N,,,May
+2015.05.20,20-May2015,2015.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Matthew Zaccaria,M,18,N,10h30,5' shark,May
+2015.05.07,07-May-2015,2015.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,Josh Green,M,,N,15h00,,May
+2015.04.29,29-Apr-2015,2015.0,Unprovoked,USA,Hawaii,Kanahena Cove ,Snorkeling,Margaret Cruse,F,65,Y,09h00,,Apr
+2014.12.28.b,28-Dec-2014,2014.0,Unprovoked,USA,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,Kevin Swanson,M,50,N,11h30,"White shark, 8' to 10'",Dec
+2014.11.16,16-Nov-2014,2014.0,Unprovoked,USA,Florida,"Indian Harbor Beach, Brevard County",Surfing,male,M,44,N,13h00,2' shark,Nov
+2014.11.13,13-Nov-2014,2014.0,Unprovoked,USA,Hawaii,"Airplane Beach, Lahina, West Maui",Snorkeling,Andrew Haas,M,53,N,13h30,1.5 m shark,Nov
+2014.11.08,08-Nov-2014,2014.0,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,Ryan Shapiro,M,18,N,16h30,,Nov
+2014.10.31,31-Oct-2014,2014.0,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,McKenzie Clark,F,34,N,11h00,"Tiger shark, 12'",Oct
+2014.10.18,18-Oct-2014,2014.0,Unprovoked,USA,Hawaii,"Maalaea, South Maui",Surfing,Kaleo Roberson ,M,,N,11h15,12' to 14' shark,Oct
+2014.10.05.b,05-Oct-2014,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kevin Ross,M,29,N,11h30,Blacktip shark,Oct
+2014.10.05.a,05-Oct-2014,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Hilton Mantooth,M,15,N,11h00,Blacktip shark,Oct
+2014.10.02.b,02-Oct-2014,2014.0,Unprovoked,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,M.M.,M,28,N,17h30,8' to 10' shark,Oct
+2014.09.21,21-Sep-2014,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jordan Lefebvre,M,,N,11h30,,Sep
+2014.08.29.b,29-Aug-2014,2014.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Brendan Murphy,M,17,N,,Spinner shark or blacktip shark,Aug
+2014.08.27.b,27-Aug-2014,2014.0,Unprovoked,USA,North Carolina,"Figure Eight Island,  New Hanover County",Surfing,Hunter Anderson,M,29,N,,4' to 6' shark,Aug
+2014.08.09,09-Aug-2014,2014.0,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Swimming,Krama Fordham,F,10,N,13h30,,Aug
+2014.08.08,08-Aug-2014,2014.0,Unprovoked,USA,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,Trent Trentacosta,M,7,N,Afternoon," Bull shark, 5'",Aug
+2014.08.05,05-Aug-2014,2014.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,female,F,45,N,,,Aug
+2014.08.02,02-Aug-2014,2014.0,Unprovoked,USA,Florida,"South of Cocoa Beach, Brevard County",Surfing,male,M,50s,N,,,Aug
+2014.07.27,27-Jul-2014,2014.0,Unprovoked,USA,North Carolina,"Sunset Beach, Brunswick County",Swimming,male,M,Teen,N,,Possibly juvenile tiger shark,Jul
+2014.07.16,16-Jul-2014,2014.0,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Swimming,male,M,61,N,17h50,6' to 8' shark,Jul
+2014.07.14,14-Jul-2014,2014.0,Unprovoked,USA,Florida,Okaloosa Island,Swimming,Terrell Moore,M,39,N,14h30,4' shark,Jul
+2014.07.09,9-Jul-2014,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Tristan Durham,M,14,N,14h00,,Jul
+2014.07.05.b,5-Jul-2014,2014.0,Provoked,USA,California,"Manhattan Beach, Los Angeles County",Swimming,Steve Robles,M,,N,09h30," White shark, 7' ",Jul
+2014.07.05.a,5-Jul-2014,2014.0,Unprovoked,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,R.J.,M,,N,07h00 - 08h00,,Jul
+2014.06.01.c,01-Jun-2014,2014.0,Unprovoked,USA,Florida,Fort Lauderdale,Swimming,Jessica Vaughn,F,22,N,13h30,Bull shark,Jun
+2014.05.06,06-May-2014,2014.0,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,Kimberly Popp,F,40,N,15h00,4' to 5' shark,May
+2014.05.01,01-May-2014,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Nolet,M,23,N,15h00,3' shark,May
+2014.04.22,22-Apr-2014,2014.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,male,M,42,N,15h30,,Apr
+2014.04.04.b,04-Apr-2014,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,teen,N,13h50,,Apr
+2014.04.04.a,04-Apr-2014,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,teen,N,13h30,,Apr
+2014.03.21,21-Mar-2014,2014.0,Unprovoked,USA,Florida,Macarthur State Park,Surfing,Sebastian Cozzen,M,9,N,,,Mar
+2014.03.02,02-Mar-2014,2014.0,Unprovoked,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,Dylan Fugitt,M,21,N,,Blacktip or spinner shark?,Mar
+2013.12.10,10-Dec-2013,2013.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Surfing,Bobby Baughman,M,30,N,14h30,4' to 6' shark,Dec
+2013.11.29,29-Nov2013,2013.0,Unprovoked,USA,Hawaii,"Keawekapu Beach, Kihei, Maui",Snorkeling,female,F,58,N,13h00,,Nov
+2013.11.22,22-Nov-2013,2013.0,Unprovoked,USA,Oregon,"Gleneden Beach, Lincoln County",Surfing,Andrew Gardiner,M,25,N,10h30,"White shark, 10 '",Nov
+2013.11.07.a,07-Nov-2013,2013.0,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Sandor Melian,M,,N,,,Nov
+2013.10.20,20-Oct-2013,2013.0,Unprovoked,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,Jeff Horton,M,25,N,11h00,Tiger shark,Oct
+2013.10.05,06-Oct-2013,2013.0,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Jay Scrivner,M,45,N,08h45,"White shark, 8' to 10'",Oct
+2013.09.29.b,29-Sep-2013,2013.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,male,M,50,N,10h00,,Sep
+2013.09.21.b, 21-Sep-2013,2013.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,female,M,45,N,13h00,,Sep
+2013.09.21.a, 21-Sep-2013,2013.0,Unprovoked,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,Brandon Dugan,M,,N,Morning,,Sep
+2013.09.14, 14-Sep-2013,2013.0,Unprovoked,USA,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,Trevor Kalck,M,21,N,15h30,Bull shark,Sep
+2013.09.12, 12-Sep-2013,2013.0,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,Storm Portman,F,13,N,13h00,3' shark,Sep
+2013.09.07.b, 07-Sep-2013,2013.0,Provoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,John Graham,M,43,N,16h00,3' shark,Sep
+2013.09.02, 02-Sep-2013,2013.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,Raushod Floyd,M,17,N,13h00,,Sep
+2013.08.31.a,31-Aug-2013,2013.0,Unprovoked,USA,California,"Butterfly Beach, Montecito, Santa Barbara County",Swimming,Nick Kennedy,M,,N,23h00,Salmon shark,Aug
+2013.08.18, 18-Aug-2013,2013.0,Unprovoked,USA,Hawaii,Pohoiki ,Surfing,Jimmy Napeahi,M,16,N,13h00,,Aug
+2013.08.17,17-Aug-2013,2013.0,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,Wendi Zuccaro,F,,N,12h40,White shark,Aug
+2013.08.14, 14-Aug-2013,2013.0,Unprovoked,USA,Hawaii,"Makenat, Maui",Snorkeling,Jana Lutteropp,F,20,Y,16h30,Tiger shark?,Aug
+2013.08.11,11-Aug-2013,2013.0,Unprovoked,USA,South Carolina,Folly Beach,Surfing,Tyson Royston,M,10,N,17h30,"Bull shark, 8'",Aug
+2013.07.31,  31-Jul-2013,2013.0,Unprovoked,USA,Hawaii,"Ulua Beach, Maui",Snorkeling,Evonne Cashman,F,56,N,08h45,,Jul
+2013.07.30,  30-Jul-2013,2013.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Ty Bretz,M,32,N,,,Jul
+2013.07.29.a,  29-Jul-2013,2013.0,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Surfing,Kiowa Gatewood,M,18,N,14h10,"Tiger shark, 8' to 10' ",Jul
+2013.06.25.b,25-Jun-2013,2013.0,Unprovoked,USA,Florida,"Jacksonville, Duval County",Swimming,Colleen Malone,M,,N,,"Possibly a Bull shark, 3'",Jun
+2013.06.25.a,25-Jun-2013,2013.0,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,Joshua Watson,M,14,N,12h45,4' to 5' shark,Jun
+2013.06.18,18-Jun-2013,2013.0,Unprovoked,USA,Hawaii,Kona Coast State Park,Swimming,James Kerrigan,M,28,N,12h50,"Tiger shark, 14'",Jun
+2013.06.17,17-Jun-2013,2013.0,Unprovoked,USA,Texas,"Surfside Beach, Brazoria County",Swimming,Garrett Sebesta ,M,15,N,14h45,,Jun
+2013.06.15,15-Jun-2013,2013.0,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,female,F,,N,,,Jun
+2013.05.27.b,27-May-2013,2013.0,Unprovoked,USA,Hawaii,"Halewia, Oahu",Diving,Tali Ena,M,32,N,,Galapagos shark,May
+2013.05.27.a,27-May-2013,2013.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,Kyle Kirkpatrick,M,11,N,Afternoon,,May
+2013.05.04.a,04-May-2013,2013.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Michael Adler,M,16,N,11h15,a small shark,May
+2013.04.13.b,13-Apr-2013,2013.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joshua White,M,21,N,13h30,Bull shark,Apr
+2013.04.04,04-Apr-2013,2013.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Swimming,male,M,50,N,,,Apr
+2013.04.02.a,02-Apr-2013,2013.0,Unprovoked,USA,Hawaii,Kaanapali Shores,Surfing,male,M,58,N,08h30,4' shark,Apr
+2013.02.21.b,21-Feb-2013,2013.0,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,,,,N,18h00,reef shark?,Feb
+2013.02.21.a,21-Feb-2013,2013.0,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Surfing,Jacob Lanskey,M,,N,18h00,reef shark?,Feb
+2013.02.10,10-Feb-2013,2013.0,Unprovoked,USA,Florida,"""Stuart Rocks"", Martin County",Surfing,Cole Taschman,M,16,N,14h00,"Blacktip shark, 4' to 5'",Feb
+2013.01.16,16-Jan-2013,2013.0,Unprovoked,USA,Hawaii,Kiholo Bay,Surfing,Paul Santos,M,43,N,16h30,"Tiger shark, 15'",Jan
+2012.12.31,31-Dec-2012,2012.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Swimming,male,M,,N,14h00,,Dec
+2012.12.05,05-Dec-2012,2012.0,Unprovoked,USA,Hawaii,Kauai,Surfing,"""Lorrin""",M,60,N,13h20,10' shark,Dec
+2012.11.30,30-Nov-2012,2012.0,Unprovoked,USA,Hawaii,"Kihei, Maui",Snorkeling,Thomas Floyd Kennedy ,M,61,N,09h40,"Tiger shark, 10'",Nov
+2012.11.19,19-Nov-2012,2012.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Kai Rittgers,M,14,N,17h30,2' to 3' shark,Nov
+2012.11.04.b,04-Nov-2012,2012.0,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Diving,Mark Riglos,M,30,N,08h30,"Tiger shark, 15'",Nov
+2012.11.04.a,04-Nov-2012,2012.0,Unprovoked,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,male,M,43,N,08h10,"Tiger shark, 8'",Nov
+2012.10.30,30-Oct-2012,2012.0,Unprovoked,USA,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,Scott Stephens,M,25,N,12h00,White shark,Oct
+2012.10.27,27-Oct-2012,2012.0,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Swimming,Mariko Haugen ,F,51,N,15h56,"Tiger shark, 10' to 12' ",Oct
+2012.10.23,23-Oct-2012,2012.0,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Francisco Javier Solorio Jr,M,39,Y,11h00,"White shark, 15' to 16' ",Oct
+2012.10.18.b,18-Oct-2012,2012.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,24,N,10h30,,Oct
+2012.09.25,25-Sep-2012,2012.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Brandon Taylor,M,21,N,16h30,5' shark,Sep
+2012.09.24,24-Sep-2012,2012.0,Unprovoked,USA,Florida,"Spanish House Beach, Brevard County",Surfing,Brandon Murray,M,22,N,Afternoon,4' shark,Sep
+2012.09.16,16-Sep-2012,2012.0,Unprovoked,USA,Florida," Cocoa Beach, Brevard  County",Surfing,male,M,52,N,15h00,,Sep
+2012.09.09,09-Sep-2012,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,teen,,19,N,14h20,,Sep
+2012.09.08.b,08-Sep-2012,2012.0,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Surfing,Matthew Fowler,M,25,N,12h00,,Sep
+2012.09.08.a,08-Sep-2012,2012.0,Unprovoked,USA,Florida,"South Beach, Miami-Dade County",Swimming,male,M,,N,Afternoon,,Sep
+2012.09.06.b,06-Sep-2012,2012.0,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,James Fyfe,M,30s,N,Just before noon,,Sep
+2012.09.06.a,06-Sep-2012,2012.0,Unprovoked,USA,Florida,"St. Augustine Beach, St. John's County",Surfing,Andrew Birchall,M,37,N,11h30,,Sep
+2012.09.04,04-Sep-2012,2012.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,male,M,32,N,07h56,,Sep
+2012.07.31.b,31-Jul-2012,2012.0,Unprovoked,USA,California,"Topanga Beach, Los Angeles County",Surfing,Jared Tennison,M,17,N,06h45,,Jul
+2012.07.30.b,30-Jul-2012,2012.0,Unprovoked,USA,Hawaii,"Mahaulepu Beach, Kauai",Surfing,Steve Stotts,M,44,N,16h35,,Jul
+2012.07.08,08-Jul-2012,2012.0,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Swimming,Tracy Fasick,F,43,N,17h30,,Jul
+2012.06.26.c,26-Jun-2012,2012.0,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Swimming,Nickolaus Bieber ,M,6,N,19h00,possibly a bull shark,Jun
+2012.06.26.b,26-Jun-2012,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,26,N,15h00,,Jun
+2012.06.22.a,22-Jun-2012,2012.0,Unprovoked,USA,Florida,"Bathtub Reef  Beach, Stuart, Martin County",Swimming,Patrick McInerney,M,12,N,16h30,,Jun
+2012.06.14.d,14-Jun-2012,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,female,F,18,N,Afternoon,small blacktip shark?,Jun
+2012.06.14.b,14-Jun-2012,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,male,M,,N,Afternoon,small blacktip shark?,Jun
+2012.06.14.a,14-Jun-2012,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,Jordon Garosalo,M,16,N,13h20,Blacktip shark ,Jun
+2012.06.02.b,02-Jun-2012,2012.0,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,Angelina DelRosso,F,12,N,,,Jun
+2012.05.23,23-May-2012,2012.0,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,Chad Refro,M,22,N,15h00,4' to 5' shark,May
+2012.05.09,09-May-2012,2012.0,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,Karin Ulrike Stei,F,47,N,11h30,,May
+2012.04.19.b,19-Apr-2012,2012.0,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,Justin Ellingham,M,28,N,19h28,5' shark,Apr
+2012.04.03,03-Apr-2012,2012.0,Unprovoked,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,Joshua Holley,M,28,N,12h38,"Tiger shark, 10'  ",Apr
+2012.03.24,24-Mar-2012,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joey Coppola,M,21,N,14h00,,Mar
+2012.03.15,15-Mar-2012,2012.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Surfing,Frank Wacha,M,61,N,15h50,Possibly a 5' to 6' bull shark,Mar
+2012.03.14.b,14-Mar-2012,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sydney Levy,F,15,N,16h00,4' to 5' shark,Mar
+2012.03.14.a,14-Mar-2012,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nick Romano,M,17,N,16h05,4' to 5' shark,Mar
+2012.01.27,27-Jan-2012,2012.0,Unprovoked,USA,Hawaii,Lanai,Snorkeling,J. Graden,,,N,11h05,6' to 8' shark,Jan
+2012.01.13,13-Jan-2012,2012.0,Unprovoked,USA,Oregon,"Lincoln City, Lincoln County",Surfing,Steve Harnack,M,53,N,,White shark,Jan
+2011.12.23,23-Dec-2011,2011.0,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Will Futato,M,27,N,12h30,,Dec
+2011.12.06,06-Dec-2011,2011.0,Unprovoked,USA,Oregon,Seaside Cove,Surfing,female,F,,N,09h00,,Dec
+2011.10.29.,  29-Oct-2011,2011.0,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Eric Tarantino,M,27,N,,White shark,Oct
+2011.10.20,20-Oct-2011,2011.0,Unprovoked,USA,Oregon,"Newport, Lincoln County",Surfing,Bobby Gumm,M,41,N,,"White shark, 15'",Oct
+2011.10.11,11-Oct-2011,2011.0,Unprovoked,USA,Florida,Cape Canaveral,Surfing,Tim Riley,M,,N,,3' shark,Oct
+2011.10.10,10-Oct-2011,2011.0,Unprovoked,USA,Oregon,Seaside,Surfing,Doug Niblack,M,,N,,10' to 12' shark,Oct
+2011.09.16,16-Sep-2011,2011.0,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Daniel Jorgensen,M,25,N,11h00,4' to 6' shark,Sep
+2011.09.11.b,11-Sep-2011,2011.0,Unprovoked,USA,California,"Samoa Beach, Humboldt County",Surfing,Benjie Rose,M,37,N,12h20,,Sep
+2011.09.04.b,04-Sep-2011,2011.0,Unprovoked,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,M. Filipe,,,N,13h00,,Sep
+2011.09.02,02-Sep-2011,2011.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Daniel True,M,19,N,11h00,"6' shark, possibly a blactip or spinner shark",Sep
+2011.08.31,31-Aug-2011,2011.0,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Surfing,Shane Lancaster,M,19,N,11h00,6' shark,Aug
+2011.08.24.b,24-Aug-2011 ,2011.0,Unprovoked,USA,North Carolina,"Buxton Beach, Dare County",Surfing,Kevin Dinneen,M,21,N,,,Aug
+2011.08.11,11-Aug--2011,2011.0,Unprovoked,USA,North Carolina,Beaufort Inlet,Swimming,Don White,M,54,N,14h00,,Aug
+2011.07.07.b,07-Jul-2011,2011.0,Unprovoked,USA,Texas,"Sunday Beach, Matagorda Island, Calhoun  County",Swimming,Nicholas Vossler,M,12,N,17h00,,Jul
+2011.06.24,24-Jun-2011,2011.0,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Doug Green,M,,N,13h30,"White shark, 5' k",Jun
+2011.05.25,25-May-2011,2011.0,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,Theresa Fernandez,F,,N,13h15,"Tiger shark, 10'",May
+2011.05.13.a,13-May-2011,2011.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Adrian Bronson,M,37,N,06h30,,May
+2010.12.11,11-Dec-2010,2010.0,Unprovoked,USA,Hawaii,"Tavares Bay, Maui",Surfing,Andrew Wilson,M,46,N,13h51,,Dec
+2010.11.19,19-Nov-2010,2010.0,Provoked,USA,Palmyra Atoll,,Snorkeling,Kydd Pollock,M,33,N,13h30,,Nov
+2010.10.28,28-Oct-2010,2010.0,Unprovoked,USA,Oregon,Florence,Surfing,Seth Mead,M,,N,15h20,,Oct
+2010.09.27,27-Sep-2010,2010.0,Unprovoked,USA,Oregon,Winchester Bay,Surfing,David Lowden,M,29,N,16h00,White shark,Sep
+2010.09.24,24-Sep-2010,2010.0,Unprovoked,USA,Virginia,Sandridge Beach,Surfing,Caleb Kauchak,M,18,N,16h30,,Sep
+2010.09.07,07-Sep-2010,2010.0,Unprovoked,USA,Florida,"St. Augustine, St. John's County",Swimming,Jason Whitworth,M,27,N,,3' shark,Sep
+2010.09.04, 04-Sep-2010,2010.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kris Kerr,M,,N,,,Sep
+2010.09.03.b,03-Sep-2010,2010.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jason Coffman,M,24,N,12h00,,Sep
+2010.09.03.a,03-Sep-2010,2010.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Andrew Heald,M,24,N,09h00,,Sep
+2010.08.07.b,07-Aug-2010,2010.0,Unprovoked,USA,North Carolina,"Figure Eight Island, Wilmington, New Hanover County",Surfing,Josh Clement,M,25,N,15h00,,Aug
+2010.07.23,23-Jul-2010,2010.0,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Clayton Schulz,M,20,N,16h30,,Jul
+2010.07.19,19-Jul-2010,2010.0,Unprovoked,USA,South Carolina,Myrtle Beach,Swimming,Josh Myers,M,10,N,10h35,Possibly a small blacktip shark,Jul
+2010.07.17.b,17-Jul-2010,2010.0,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Swimming,Kendall Parker,F,13,N,13h30,"Sandtiger shark, 4' to 5'",Jul
+2010.07.17.a,17-Jul-2010,2010.0,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Jimmy Johnston,M,55,N,,A small spinner shark,Jul
+2010.07.02.b,02-Jul-2010,2010.0,Unprovoked,USA,California,"Pismo Beach, San Luis  Obispo County",Surfing,Derek Crane,M,19,N,Evening,4' shark,Jul
+2010.06.27,27-Jun-2010,2010.0,Unprovoked,USA,Texas,"Eight Mile Beach, Galveston",Surfing,Chad Rogers,M,20,N,,"Bull shark, 5'",Jun
+2010.06.25.a,25-Jun-2010,2010.0,Unprovoked,USA,North Carolina,"Topsail Island, Pender County",Swimming,Carley Schlentz,F,13,N,13h00,,Jun
+2010.06.00,Jun-2010,2010.0,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Surfing,Matt Searcy,M,20,N,,,Jun
+2010.04.19,19-Apr-2010,2010.0,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,Jim Rawlinson,M,68,N,16h00,14' shark,Apr
+2009.12.06,05-Dec-2009,2009.0,Provoked,USA,New Jersey,"Adventure Aquarium, Camden",Diving,Robert Large,M,58,N,13h00,"Sandtiger shark, 8'",Dec
+2009.11.16.a,16-Nov-2009,2009.0,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,Steven Burdelski,M,22,N,09h30,,Nov
+2009.11.13,13-Nov-2009,2009.0,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,Melissa Hardcastle,F,27,N,16h30,,Nov
+2009.11.11,11-Nov-2009,2009.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,18,N,Afternoon,4' shark,Nov
+2009.11.05,05-Nov-2009,2009.0,Unprovoked,USA,California,"Davenport, Santa Cruz County",Surfing,Eric Geiselman,M,21,N,Dusk,,Nov
+2009.10.24,24-Oct-2009,2009.0,Unprovoked,USA,California,"San Onofre, San Diego County ",Surfing,Scott Barton,M,,N,17h30,,Oct
+2009.10.19,19-Oct-2009,2009.0,Unprovoked,USA,Hawaii,"Kalama Park, Maui",Surfing,Scott Henrich,M,54,N,06h00,6' to 8' shark,Oct
+2009.10.09,09-Oct-2009,2009.0,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Bernard Wagor,M,,N,11h00,,Oct
+2009.09.26,26-Sep-2009,2009.0,Unprovoked,USA,Florida,"Key Colony Beach, Monroe County",Swimming,Daniel Callahan,M,,N,17h30,"Bull shark, 8'",Sep
+2009.08.30,30-Aug-2009,2009.0,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Cory Hedgepeth,M,,N,18h30,4' shark,Aug
+2009.08.25,25-Aug-2009,2009.0,Unprovoked,USA,California,"Terramar Beach, Carlsbad, San Diego County",Swimming,Bethany Edmund,F,22,N,16h30,"White shark, 5' to 6' juvenile ",Aug
+2009.08.10,10-Aug-2009,2009.0,Unprovoked,USA,Florida,"Ponce, Volusia County",Swimming,A visitor from Spain,M,26,N,19h00,,Aug
+2009.08.06,06-Aug-2009,2009.0,Unprovoked,USA,Hawaii,Kawa'a ,Surfing,Dylan Crawford,M,,N,08h45,"Tiger shark, 12",Aug
+2009.07.22.b,22-Jul-2009,2009.0,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Swimming,Julia Anne Mittleberg,F,26,N,15h00,,Jul
+2009.07.22.a,22-Jul-2009,2009.0,Unprovoked,USA,Florida,"Intracoastal Waterway,      St. Petersburg",Swimming,Jenna James,F,19,N,15h00,,Jul
+2009.07.04,04-Jul-2009,2009.0,Provoked,USA,Florida,"Biscayne National Park, Miami",Swimming,Carmen Dominguez ,F,43,N,15j45,"Nurse shark, 6'",Jul
+2009.05.25,25-May-2009,2009.0,Provoked,USA,Florida,"Clearwater Beach, Pinellas County",Swimming,Dana Joseph,M,,N,20h30,5' to 8' shark,May
+2009.05.17,17-May-2009,2009.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Provido,M,31,N,09h35,blacktip or spinner shark,May
+2009.05.16.b,16-May-2009,2009.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Bryan Heath,M,49,N,10h27,blacktip or spinner shark,May
+2009.05.16.a,16-May-2009,2009.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Bryant,M,55,N,10h16,blacktip or spinner shark,May
+2009.04.25.R,Reported 25-Apr-2009,2009.0,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Drew Senner,M,,N,10h00,,Apr
+2009.04.21,21-Apr-2009,2009.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,20,N,Late afternoon,,Apr
+2009.04.19,19-Apr-2009,2009.0,Unprovoked,USA,Florida,"Carlin Park, Jupiter Inlet",Surfing,Bruce Klinker,M,52,N,16h00,,Apr
+2009.04.17.,17-Apr-2009,2009.0,Unprovoked,USA,Florida,"Walton Rocks, St Lucie County",Surfing,Alexander Wagner,M,31,N,13h15,2' to 3' shark,Apr
+2009.03.18.a,18-Mar-2009,2009.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,female,F,17,N,17h30,3' to 4' shark,Mar
+2009.03.17,17-Mar-2009,2009.0,Unprovoked,USA,Hawaii,Alenuihaha Channel,Swimming,Mike Spaulding,M,61,N,20h00,Thought to involve a cookie cutter shark,Mar
+2008.09.28.b,28-Sep-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Logan,M,44,N,11h45,,Sep
+2008.09.28.a,28-Sep-2008,2008.0,Unprovoked,USA,Florida,Bethune Beach,Surfing,David Carr,M,40,N,11h00,+3' shark,Sep
+2008.09.14,14-Sep-2008,2008.0,Unprovoked,USA,Florida,"Ormond-by-the-Sea, Volusia County",Swimming,,M,32,N,12h00,2' to 3' juvenile shark,Sep
+2008.09.09,09-Sep-2008,2008.0,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Surfing,Todd Murashige,M,40,N,16h30,Tiger shark,Sep
+2008.09.08,08-Sep-2008,2008.0,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Kyle K.,M,,N,10h30,"White shark, 14' to 16' ",Sep
+2008.09.06.b,06-Sep-2008,2008.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,male,M,43,N,12h00,,Sep
+2008.09.06.a,06-Sep-2008,2008.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,male,M,15,N,12h00,,Sep
+2008.09.01,01-Sep-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joe McGauley,M,52,N,10h00,4' shark,Sep
+2008.09.00,Sep-2008,2008.0,Unprovoked,USA,Florida,Hutchinson Island,Surfing,Daryl Zbar,M,,N,Morning,,Sep
+2008.08.28,28-Aug-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Thomas Gold,M,19,N,12h00,,Aug
+2008.08.27,27-Aug-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Alexander Zgura,M,26,N,11h00,6' shark,Aug
+2008.08.20,20-Aug-2008,2008.0,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Swimming,Jack Miller,M,47,N,14h45,,Aug
+2008.08.11,11-Aug-2008,2008.0,Unprovoked,USA,Hawaii,"Ala Moana Beach Park, Oah'u",Diving,male,M,,N,14h00,"Tiger shark, 12'",Aug
+2008.07.26.a,26-Jul-2008,2008.0,Unprovoked,USA,Hawaii,"Honokowai, Maui",Swimming,U. Mataafa,M,,N,15h30,2' to 3' reef shark,Jul
+2008.07.25.b,25-Jul-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Ethan Fulton,M,17,N,09h00,,Jul
+2008.07.25.a,25-Jul-2008,2008.0,Unprovoked,USA,Hawaii,"Lahilahi Point, Oahu",Snorkeling,Kaori Fiack ,F,44,N,08h45,,Jul
+2008.07.23,23-Jul-2008,2008.0,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Troy Zettle,M,15,N,14h30,,Jul
+2008.07.11,11-Jul-2008,2008.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Surfing,male,M,24,N,14h00,,Jul
+2008.07.09,09-Jul-2008,2008.0,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,Bailleigh Foster,F,14,N,19h30,,Jul
+2008.06.26.b,26-Jun-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,29,N,Afternoon,,Jun
+2008.06.26.a,26-Jun-2008,2008.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Preston Pearman,M,37,N,11h15,4.5 to 5' shark,Jun
+2008.05.26,26-May-2008,2008.0,Unprovoked,USA,North Carolina,"Hammocks Beach State Park, Bear Island, Onslow County",Surfing,William Early,M,9,N,15h50,,May
+2008.04.28.a,28-Apr-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,David Alger,M,18,N,11h45,4' shark,Apr
+2008.04.27,27-Apr-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Adam Tobin,M,24,N,10h30,,Apr
+2008.04.26.a,26-Apr-2008,2008.0,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Mark Pattison,M,21,N,09h50,,Apr
+2008.04.25,25-Apr-2008,2008.0,Unprovoked,USA,California,"Solana Beach, San Diego County",Swimming,Dave Martin,M,66,Y,07h00,"White shark, 12' to 15'",Apr
+2008.04.20.b,20-Apr-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,female,M,14,N,08h45,,Apr
+2008.04.15,15-Apr-2008,2008.0,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Bobby Phillips,M,30,N,15h00,1.5' to 2' shark,Apr
+2008.04.08.R,Reported 08-Apr-2008,2008.0,Unprovoked,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Surfing,,,,N,,,Apr
+2008.03.28.b,28-Mar-2008,2008.0,Unprovoked,USA,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",Surfing,Mark Lemelin,M,52,N,18h50,4' to 5' shark,Mar
+2008.03.07,07-Mar-2008,2008.0,Unprovoked,USA,California," Huntington Beach, Orange County",Surfing,Thomas Larkin,M,27,N,08h00,White shark,Mar
+2008.02.15,15-Feb-2008,2008.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Harold Bradner,M,25,N,17h00,,Feb
+2008.01.10,10-Jan-2008,2008.0,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Jordan Marsden,M,20,N,,a small shark,Jan
+2007.12.10,10-Dec-2007,2007.0,Unprovoked,USA,Hawaii,"Waialua Bay, O'ahu",Surfing,Valentino Ramirez,M,52,N,"""Just before 11h00""",Tiger shark,Dec
+2007.11.06,06-Nov-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joseph Fox,M,21,N,11h115,4' to 5' shark,Nov
+2007.11.04,04-Nov-2007,2007.0,Unprovoked,USA,Florida,"Round Island Park, Indian River County",Surfing,Jeffrey Nolan,M,42,N,09h00,5' shark,Nov
+2007.10.07,07-Oct-2007,2007.0,Unprovoked,USA,California,"Venice Pier, Venice, Los Angeles County",Surfing,Sam Bendall,M,22,N,20h30,3' to 4' shark,Oct
+2007.10.06,06-Oct-2007,2007.0,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,E.H.,M,16,N,08h10,"Blacktip shark, 5'",Oct
+2007.09.30.c,30-Sep-2007,2007.0,Unprovoked,USA,California,"Santa Monica, Los Angeles County",Surfing,Andrew Sinagra,M,,N,11h30,,Sep
+2007.09.27.b,27-Sep-2007,2007.0,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,Sue Snyder,F,,N,08h15,White shark,Sep
+2007.09.22.a,22-Sep-2007,2007.0,Unprovoked,USA,Florida,Huguenot Park,Surfing,,F,,N,,4' shark,Sep
+2007.09.20,20-Sep-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Tyler Robertson,M,23,N,18h20,3' shark,Sep
+2007.09.16.a,16-Sep-2007,2007.0,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,Jessica Riley,F,Teen,N,Early morning,9.5' shark?,Sep
+2007.09.13,13-Sep-2007,2007.0,Unprovoked,USA,Florida,"Lauderdale-by-the-Sea, Broward County",Snorkeling,Brandon Chapman,M,14,N,16h00,"Nurse shark, 2' to 3' ",Sep
+2007.09.03.a,03-Sep-2007,2007.0,Unprovoked,USA,Florida,"Fort Lauderdale, Broward County",Swimming,Dominco Iaciofano,M,58,N,09h45,Possibly a spinner shark,Sep
+2007.08.28.a,28-Aug-2007,2007.0,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Todd Endris,M,24,N,10h45,"White shark, 12'",Aug
+2007.08.26,26-Aug-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joseph Coursey,M,54,N,14h00,3' shark,Aug
+2007.08.25,25-Aug-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Taylor Smith,M,27,N,Morning,3' shark,Aug
+2007.08.22,22-Aug-2007,2007.0,Provoked,USA,North Carolina,North Carolina Aquarium at Fort Fisher,Diving,Bruce Pennington,M,,N,,Sand shark,Aug
+2007.08.19.c,19-Aug-2007,2007.0,Unprovoked,USA,Florida,"Islamorada Founder's Park, Plantation Key, Monroe County",Swimming,Chris Olstad,M,52,N,20h15,,Aug
+2007.08.19.b,19-Aug-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,16,N,12h39,4' to 5' shark,Aug
+2007.08.12,12-Aug-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,female,F,15,N,17h35, ,Aug
+2007.08.09.b,09-Aug-2007,2007.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Noah Green,M,30,N,16h40,,Aug
+2007.07.29,29-Jul-2007,2007.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Jeffrey Clark,M,51,N,Afternoon,,Jul
+2007.07.28,28-Jul-2007,2007.0,Unprovoked,USA,California,"Imperial Beach, San Diego County",Surfing,Jordan Springer,M,20,N,23h00,,Jul
+2007.07.19.b,19-Jul-2007.b,2007.0,Unprovoked,USA,Hawaii,"Bellows Beach near Wailea Point, Oahu",Snorkeling,Harvey Miller,M,36,N,15h15, ,Jul
+2007.07.18.b,18-Jul-2007,2007.0,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow  County",Swimming,Matt Baker,M,14,N,12h30,2' to 3' shark,Jul
+2007.07.05,05-Jul-2007,2007.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Chaz Cecil,M,18,N,16h00,,Jul
+2007.06.30.a,30-Jun-2007,2007.0,Unprovoked,USA,California,"Will Rogers State Beach, Los Angeles County",Swimming,Katina Zinner,F,,N,10h00,,Jun
+2007.06.25,25-Jun-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Justin Lewis,M,20,N,17h30,4' shark,Jun
+2007.06.24,24-Jun-2007,2007.0,Unprovoked,USA,Hawaii,"Silva's Channel, Mokuleia, O'ahu",Surfing,E. Yamada,M,,N,07h05,Tiger shark,Jun
+2007.06.12,12-Jun-2007,2007.0,Unprovoked,USA,Florida,"Turtle Beach, Siesta Key, Sarasota County",Swimming,Jeanne Schaefer ,F,,N,11h00,3' to 4' shark,Jun
+2007.05.10,10-May-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jennifer Manis,F,21,N,16h00,4' to 5' shark,May
+2007.05.07.b,07-May-2007,2007.0,Unprovoked,USA,Hawaii,"Keawakapu Beach, Maui",Snorkeling,Peller Marion,F,63,N,08h30,"Tiger shark, 14' ",May
+2007.05.07.a,07-May-2007,2007.0,Unprovoked,USA,Florida,Naples,Swimming,Hans Pruss,M,68,N,08h30,6' to 8' shark,May
+2007.04.20,20-Apr-2007,2007.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chad Guthrie,M,24,N,17h00,3' to 4' shark,Apr
+2007.03.31.b,31-Mar-2007,2007.0,Unprovoked,USA,Florida,"Normandy Beach, Hutchinson Island,  St. Lucie County",Surfing,Larry Olson,M,27,N,14h20,3' shark,Mar
+2007.03.21,21-Mar-2007,2007.0,Unprovoked,USA,Florida,Jupiter Inlet,Surfing,Sam Chief,M,11,N,Evening,4' to 5' shark,Mar
+2007.03.11,11-Mar-2007,2007.0,Unprovoked,USA,Florida,"Tiger Shores Beach, Martin County",Surfing,Adam McMichael,M,29,N,13h00,,Mar
+2007.01.05,01-Jan-2007,2007.0,Unprovoked,USA,Hawaii,"Majors Bay, Kaua'i",Surfing,Rich Reed,M,24,N,10h15,"6' to 8' shark, possibly a tiger shark",Jan
+2006.12.10,10-Dec-2006,2006.0,Unprovoked,USA,California,"Dillon Beach, Marin County",Surfing,Royce Fraley,M,43,N,11h50,"White shark, 12' to 15' ",Dec
+2006.11.11,11-Nov-2006,2006.0,Unprovoked,USA,Hawaii,"Kihei, Maui",Swimming,Kyle Gruen,M,29,N,12h30,2 m to 3 m shark,Nov
+2006.10.31,31-Oct-2006,2006.0,Unprovoked,USA,Oregon,"Siletz River mouth, Lincoln County",Surfing,Tony Perez,M,22,N,Just before sundown,"White shark, 16' ",Oct
+2006.10.10,10-Oct-2006,2006.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Kyle Cody,M,20,N,11h30,,Oct
+2006.10.07,07-Oct-2006,2006.0,Unprovoked,USA,Texas,"Isla Blanca Park, South Padre Island",Surfing,Freddy Torres,M,,N,,1' to 4' shark,Oct
+2006.09.29,29-Sep-2006,2006.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chris Andrews ,M,19,N,,,Sep
+2006.09.16,16-Sep-2006,2006.0,Unprovoked,USA,North Carolina,Onslow Beach,Surfing,Jake Poland,M,16,N,Morning,,Sep
+2006.09.14,14-Sep-2006,2006.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach",Swimming,William Carol,M,55,N,14h00,Spinner shark,Sep
+2006.09.11,11-Sep-2006,2006.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Dennis Macy,M,52,N,,5' shark,Sep
+2006.09.02,02-Sep-2006,2006.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,male,M,12 or 13,N,17h55,,Sep
+2006.08.29.b,29-Aug-2006,2006.0,Unprovoked,USA,Oregon,"Florence, Lane County",Surfing,Tom Larson,M,23,N,Sunset,,Aug
+2006.07.31.a,31-Jul-2006,2006.0,Unprovoked,USA,Oregon,Oswald State Park,Surfing,Robert Martin,M,41,N,16h00,White shark?,Jul
+2006.07.29.a,29-Jul-2006,2006.0,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Matt Wishengrad,M,15,N,,,Jul
+2006.07.25,25-Jul-2006,2006.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,14,N,13h45, ,Jul
+2006.07.12,12-Jul-2006,2006.0,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,female,F,21,N,13h30,,Jul
+2006.07.08.a,08-Jul-2006,2006.0,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Swimming,male,M,13,N,13h00,,Jul
+2006.06.20,20-Jun-2006,2006.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Elizabeth Schelk,F,22,N,13h00,Possibly a 1' to 3' blacktip or spinner shark,Jun
+2006.06.15,15-Jun-2006,2006.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Mike Milea,M,24,N,15h30,2' to 3' shark,Jun
+2006.05.27,27-May-2006,2006.0,Unprovoked,USA,Hawaii,"North Shore, O'ahu",Surfing,Bret Desmond,M,31,N,16h00,,May
+2006.05.04,04-May-2006,2006.0,Unprovoked,USA,Florida,"Hutchinson Island, St. Lucie County",Swimming,Rachel King,F,20s,N,16h30,,May
+2006.04.21,21-Apr-2006,2006.0,Unprovoked,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,T. Davis Bunn,M,54,N,,,Apr
+2006.03.23,23-Mar-2006,2006.0,Unprovoked,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",Surfing,Elizabeth Dunn,F,28,N,11h30,"Tiger shark, 10'  ",Mar
+2006.01.04,04-Jan-2006,2006.0,Unprovoked,USA,Florida,"Round Island Park, Indian River County",Surfing,male,M,21,N,16h45,4' shark,Jan
+2005.12.24,24-Dec-2005,2005.0,Unprovoked,USA,Oregon,"Tillamook Head, Clatsop County",Surfing,Brian Anderson,M,30,N,12h00,White shark,Dec
+2005.12.21,21-Dec-2005,2005.0,Unprovoked,USA,Hawaii,"Keawakapu Beach, Maui",Swimming,Jonathan Genant,M,29,N,11h45,Tiger shark,Dec
+2005.11.29.R,Reported 29-Nov-2005,2005.0,Unprovoked,USA,Florida,"Cape San Blas, Gulf County",Surfing,John Larsen,M,teen,N,,,Nov
+2005.11.27,27-Nov-2005,2005.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Blake Perry,M,23,N,13h00,4' shark,Nov
+2005.11.21,21-Nov-2005,2005.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Surfing,a male from Miami,M,30s,N,Afternoon,4' shark,Nov
+2005.11.20,20-Nov-2005,2005.0,Unprovoked,USA,Florida,"New Smyrna  Beach, Volusia County",Surfing,Kevin Spradlin,M,17,N,14h30,,Nov
+2005.11.12,12-Nov-2005,2005.0,Unprovoked,USA,Florida,"New Smyrna  Beach, Volusia County",Surfing,Lance Cameron,M,18,N,13h00,6' shark,Nov
+2005.11.02.b,02-Nov-2005,2005.0,Unprovoked,USA,California,"Mavericks, Half Moon Bay, San Mateo County",Surfing,Tim West,M,25,N,16h45,,Nov
+2005.11.02.a,02-Nov-2005,2005.0,Unprovoked,USA,California,"Ocean Beach, San Francisco, San Francisco County",Surfing,Jake Daneman,M,26,N,07h15,12' to 14' white shark,Nov
+2005.10.21,21-Oct-2005,2005.0,Unprovoked,USA,California,"Klamath River mouth, Del Norte County",Surfing,Chad Reiker,M,36,N,11h00,White shark,Oct
+2005.10.19,19-Oct-2005,2005.0,Unprovoked,USA,California,"Salmon Beach, Sonoma County",Surfing,Megan Halavais,F,20,N,10h30,18' white shark,Oct
+2005.10.13,13-Oct-2005,2005.0,Unprovoked,USA,Hawaii,"Honokowai, Maui",Surfing,Clayton Sado,M,22,N,18h00,"Tiger shark, less than 10'",Oct
+2005.09.11,11-Sep-2005,2005.0,Unprovoked,USA,South Carolina,Folly Beach,Surfing,"Greg  Norton, Jr.",M,18,Y,14h00,,Sep
+2005.08.24.a,24-Aug-2005,2005.0,Unprovoked,USA,California,"Scripps, LaJolla, San Diego County",Surfing,Tony Simmonson,M,37,N,11h00,juvenile white shark,Aug
+2005.08.21,21-Aug-2005,2005.0,Unprovoked,USA,South Carolina,"34th Avenue North, Myrtle Beach, Horry County",Swimming,Jacob Kolessar,M,8,N,Morning,Possibly a sandbar shark or small blacktip shark,Aug
+2005.08.12,12-Aug-2005,2005.0,Unprovoked,USA,North Carolina,"Carolina Beach off Texas Avenue, New Hanover County",Surfing,Chris O'Connor,M,16,N,11h30,1.8 m [6'] shark,Aug
+2005.08.06,6-Aug-2005,2005.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Michael Lamb,M,14,N,09h45,,Aug
+2005.07.23,23-Jul-2005,2005.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Bob Thompson,M,61,N,11h30,,Jul
+2005.07.15,15-Jul-2005,2005.0,Unprovoked,USA,North Carolina,"Holden Beach, Brunswick County",Swimming,Chris Humphrey,M,22,N,16h40,[4.5' to 5'] shark,Jul
+2005.06.16,16-Jun-2005,2005.0,Unprovoked,USA,Florida,"Howard E. Futch Memorial Park at Paradise Beach, Brevard County",Swimming,male,M,20,N,Afternoon,"Unknown, but it was reported that a shark tooth was recovered from the wound",Jun
+2005.05.28,28-May-2005,2005.0,Unprovoked,USA,Florida,Daytona Beach Shores,Swimming,Alfonso Garcia,M,33,N,17h30,"""small shark""",May
+2005.05.02,02-May-2005,2005.0,Unprovoked,USA,Hawaii,"Noreiga's, Maui",Surfing,Scott Hoyt,M,47,N,10h30,"Tiger shark, 3 m [10']",May
+2005.04.07,07-Apr-2005,2005.0,Unprovoked,USA,Texas,"Isla Blanca Park, South Padre Island, Cameron County",Surfing,Gianluca Ferrario ,M,37,N,19h00,,Apr
+2005.02.16,16-Feb-2005,2005.0,Unprovoked,USA,Hawaii,"Rocky Point, north shore of O'ahu",Surfing,Greg Long,M,,N,14h30,"Tiger shark, 2.4 m [8']",Feb
+2004.11.11.b,11-Nov-2004,2004.0,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Brian Kang,M,38,N,13h30,5.5 m [18'] white shark,Nov
+2004.10.10,10-Oct-2004,2004.0,Unprovoked,USA,California,"Limantour Beach, Point Reyes National Seashore",Surfing,Paul de Jung,M,,N,09h30,1.8 m to 2.4 m [6' to 8'] white shark,Oct
+2004.10.02,02-Oct-2004,2004.0,Unprovoked,USA,California,"Pismo Beach, San Luis Obispo County",Surfing,Ben Ikola,M,16,N,15h30,,Oct
+2004.10.01,01-Oct-2004,2004.0,Unprovoked,USA,California,"Lifeguard Tower 16, Huntington Beach, Orange County",Surfing,Chuck Wilson,M,40,N,14h00,,Oct
+2004.09.20,20-Sep-2004,2004.0,Unprovoked,USA,Oregon,Gold  Beach,Surfing,Seth Mead,M,26,N,09h00,White shark,Sep
+2004.08.20,20-Aug-2004,2004.0,Unprovoked,USA,California,"204s, San Clemente, Orange County",Surfing,Shannon Lehman,M,,N,17h30,0.9 m to 1.2 m [3' to 4'] white shark,Aug
+2004.08.15,15-Aug-2004,2004.0,Unprovoked,USA,California,"Kibesillah, Mendocino County",Diving,Randy Fry,M,50,Y,16h00,4.9 m to 5.5 m [16' to 18'] white shark,Aug
+2004.08.06,06-Aug-2004,2004.0,Unprovoked,USA,Florida,"Big Bayou, St. Petersburg, Pinellas County ",Swimming,James Tiffee,M,47,N,20h30,1.2 m [4'] shark,Aug
+2004.07.31,31-Jul-2004,2004.0,Unprovoked,USA,Florida,"Cocoa  Beach, Brevard County",Surfing,Kelly Getzfread,F,20,N,13h00,,Jul
+2004.07.28,28-Jul-2004,2004.0,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Surfing,Catherine Delneo,F,28,N,17h30,,Jul
+2004.07.27.b,27-Jul-2004,2004.0,Unprovoked,USA,North Carolina,"Carolina Beach, New Hanover County",Swimming,Alexis Huesgen,F,13,N,17h00,1.8 m [6'] shark,Jul
+2004.07.27.a,27-Jul-2004,2004.0,Unprovoked,USA,Texas,Galveston Island,Swimming,Erika Hailey,F,19,N,16h30,1.2 m to 1.5 m [4' to 5'] shark,Jul
+2004.06.26.b,26-Jun-2004,2004.0,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Kelly French,M,45,N,09h00,"9'2"" white shark",Jun
+2004.06.10.a,10-Jun-2004,2004.0,Unprovoked,USA,Florida,"Daytona Beach Shores, Volusia County",Swimming,Mitchell Anderson,M,8,N,18h00,1.2 m [4'] shark,Jun
+2004.05.28,28-May-2004,2004.0,Unprovoked,USA,California,"Salmon Creek, Sonoma County",Surfing,"Bernard 'Butch' Connor, Jr.",M,44,N,11h00,2.4 m to 3.7 m [8' to 12'] shark,May
+2004.04.07,07-Apr-2004,2004.0,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Surfing,Willis McInnis,M,57,Y,07h08,Tiger shark,Apr
+2004.03.31.a,31-Mar-2004,2004.0,Unprovoked,USA,Florida,"Stuart Rocks, Martin County",Surfing,Chance Dean,M,20,N,09h00,1.2 m [4'] bull shark,Mar
+2004.03.28,28-Mar-2004,2004.0,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Surfing,male,M,,N,15h00,bull shark,Mar
+2004.03.27.a,27-Mar-2004,2004.0,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Swimming,Peter G. Hoffman,M,61,N,08h30,,Mar
+2004.03.24,14-Mar-2004,2004.0,Unprovoked,USA,Hawaii,Punaluu,Snorkeling,C. Mooney,F,,N,10h00,1.8 m [6'] shark,Mar
+2004.03.16,16-Mar-2004,2004.0,Unprovoked,USA,Hawaii,"Kalihiwai Beach, Kauai",Surfing,Bruce Orth,M,51,N,07h45,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",Mar
+2003.12.13.b,13-Dec-2003,2003.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,male,M,13,N,13h15,,Dec
+2003.11.22,22-Nov-2003,2003.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Taylor Trumbauer,F,35,N,15h30,4' shark,Nov
+2003.11.12.a,12-Nov-2003,2003.0,Unprovoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,Josh Crawford,M,24,N,,,Nov
+2003.10.31.c,31-Oct-2003,2003.0,Unprovoked,USA,Florida,"Ponte Vedra Beach, St. Johns County",Surfing,Adam Gray,M,18,N,15h00,1.2 m to 1.5 m [4' to 5'] shark,Oct
+2003.10.31.a,31-Oct-2003,2003.0,Unprovoked,USA,Hawaii,"Tunnels surf break off Makua Beach, Kaua'i",Surfing,Bethany Hamilton,F,13,N,07h30,"Tiger shark, 14' ",Oct
+2003.10.27,27-Oct-2003,2003.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jeffrey Hauser,M,46,N,12h20,,Oct
+2003.10.14,14-Oct-2003,2003.0,Unprovoked,USA,Florida,Near Patrick Air Force Base Brevard County,Surfing,male,M,19,N,--,1.2 m [4'] shark,Oct
+2003.10.05.e,05-Oct-2003,2003.0,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,female,F,,N,15h00,,Oct
+2003.10.05.d,05-Oct-2003,2003.0,Unprovoked,USA,Florida,"Stuart Park Beach, Martin County",Surfing,male,M,18,N,14h30,,Oct
+2003.10.05.c,05-Oct-2003,2003.0,Provoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,Rick Eckstein,M,30,N,14h00,,Oct
+2003.09.28,28-Sep-2003,2003.0,Unprovoked,USA,Florida,"North Hutchinson Island, St. Lucie Couny",Surfing,Stephen Johnson,M,16,N,07h45,,Sep
+2003.09.21,21-Sep-2003,2003.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Jimmy  Arnold,M,21,N,11h45,,Sep
+2003.09.19,19-Sep-2003,2003.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,David Cales,M,19,N,16h30,,Sep
+2003.09.17,17-Sep-2003,2003.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,A.B.,M,17,N,14h00,,Sep
+2003.09.14.c,14-Sep-2003,2003.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jason Williams,M,30,N,16h14,3' shark,Sep
+2003.07.20,20-Jul-2003,2003.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,John McGovern,M,18,N,15h45,,Jul
+2003.07.05.a,05-Jul-2003,2003.0,Unprovoked,USA,Florida,"Canova Beach, Brevard County",Surfing,James Ingram,M,21,N,,1.5 m to 1.8 m [5' to 6'] shark,Jul
+2003.06.30,30-Jun-2003,2003.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,E.W.,M,17,N,13h53,Unidentified species,Jun
+2003.06.26,26-Jun-2003,2003.0,Unprovoked,USA,Florida,St Augustine Beach. St. Johns County,Surfing,Shelby Tostevin,M,15,N,Morning,106 cm [3.5']  shark,Jun
+2003.06.22,22-Jun-2003,2003.0,Unprovoked,USA,Johnston Atoll,,Swimming,George Fahey,M,51,N,Afternoon,Unidentified species,Jun
+2003.06.08,08-Jun-2003,2003.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,J.D.,,15,N,11h55,,Jun
+2003.05.25,25-May-2003,2003.0,Unprovoked,USA,Florida,"Coral Cove Park, Jupiter Inlet, Palm Beach County",Surfing,"Kris ""Cutty"" Kildosher",M,18,N,10h00,,May
+2003.05.10,10-May-2003,2003.0,Unprovoked,USA,Hawaii,Between Magic Sands Beach and Kahaluu Beach on the Kona coast,Swimming,Koa Paulo,M,20,N,11h45,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark,May
+2003.05.07,07-May-2003,2003.0,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Gerald Gaskins,M,34,N,11h40,4' to 5' shark,May
+2003.04.21.b,21-Apr-2003,2003.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County ",Surfing,Ralph Sammis,M,36,N,14h30,Unidentified species,Apr
+2003.04.21.a,21-Apr-2003,2003.0,Unprovoked,USA,Florida,"Shepard Park, Cocoa Beach, Brevard County ",Surfing,male,M,17,N,13h30,Unidentified species,Apr
+2003.04.20.c,20-Apr-2003,2003.0,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Tommy Ryan,M,30,N,Afternoon,Unidentified species,Apr
+2003.04.20.b,20-Apr-2003,2003.0,Unprovoked,USA,Florida,"Sunglow Pier, Daytona Beach Shores, Volusia County",Surfing,Jeff Albright,M,23,N,09h00,0.9 m to 1.2 m [3' to 4'] shark,Apr
+2003.04.20.a,20-Apr-2003,2003.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Stephen Flowers,M,18,N,14h20,Unidentified species,Apr
+2003.04.18,18-Apr-2003,2003.0,Unprovoked,USA,Florida,"North Beach, Patrick AFB, Brevard County",Surfing,male,M,12,N,08h50,Unidentified species,Apr
+2003.04.09,09-Apr-2003,2003.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Damien Share,M,,N,Dusk,,Apr
+2003.04.04,04-Apr-2003,2003.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,"Frederick Jordan, Jr.",M,50,N,08h00,4' to 5' shark,Apr
+2003.02.15.a,15-Feb-2003,2003.0,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Swimming,James Bailey,M,54,N,12h10,Species unidentified,Feb
+2002.11.17,17-Nov-2002,2002.0,Unprovoked,USA,Hawaii,Ka'anapali,Swimming,Julie Glance ,F,34,N,10h45,2.4 m to 3 m [8' to 10'] grey colored shark,Nov
+2002.11.11,11-Nov-2002,2002.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Joshua Johnson,M,21,N,13h40,6' shark,Nov
+2002.10.30,30-Oct-2002,2002.0,Unprovoked,USA,Hawaii,"Kama'ole Beach Park I, Kihei, Maui",Swimming,Karen Miller,F,60,N,11h56,A small shark,Oct
+2002.10.11,11-Oct-2002,2002.0,Unprovoked,USA,Florida,"Opposite main gate at Patrick Air Force Base, Cape Canaveral, Brevard County",Surfing,male,M,21,N,Sunset,,Oct
+2002.10.05.b,05-Oct-2002,2002.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Darren Harrity,M,14,N,12h00,Blacktip or spinner shark,Oct
+2002.10.05.a,05-Oct-2002,2002.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Ivan Rios ,M,35,N,13h30,3.5' to 4.5' shark,Oct
+2002.10.03,03-Oct-2002,2002.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Cheyne Kehoe ,M,18,N,14h35,3.5' to 4' shark,Oct
+2002.09.30,30-Sep-2002,2002.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Matt Crawford,M,47,N,16h20,4' to 5' shark,Sep
+2002.09.29,29-Sep-2002,2002.0,Unprovoked,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,Dave Fogelberg,M,32,N,07h30,,Sep
+2002.09.21.a,21-Sep-2002,2002.0,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,Reed Richards,M,35,N,Early Morning,3 m to 3.7 m [10' to 12'] shark,Sep
+2002.08.28,28-Aug-2002,2002.0,Unprovoked,USA,Hawaii,"Kewalo Basin Channel, O'ahu",Surfing,Shawn Farden,M,16,N,15h45,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",Aug
+2002.08.17,17-Aug-2002,2002.0,Unprovoked,USA,Alabama,"Gulf of Mexico, 65 miles offshore from Mobile",Swimming,Kimberly McClain,F,29,N,17h00,,Aug
+2002.08.14,14-Aug-2002,2002.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Paxton Vinyard,M,27,N,14h45,0.9 m  to 1.2 m [3' to 4'] shark,Aug
+2002.08.11,11-Aug-2002,2002.0,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Surfing,Brad Milliken,M,15,N,15h30,"Nurse shark, 1.5 m [5'] ",Aug
+2002.07.26,26-Jul-2002,2002.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Surfing,T.J. Nimmons,M,13,N,19h00,1.2 m [4'] blacktip or sandbar shark,Jul
+2002.07.20,20-Jul-2002,2002.0,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,Mary Katherine Strong,F,15,N,17h00,"Bull shark, 1.8 m to 2.1 m [6' to 7'] ",Jul
+2002.07.10,10-Jul-2002,2002.0,Provoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Josh Nichtro,M,19,N,18h45,,Jul
+2002.06.20.a,20-Jun-2002,2002.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,female,F,11,N,14h25,,Jun
+2002.06.11.a,10-Jun-2002,2002.0,Unprovoked,USA,Florida,"St Augustine Beach, St Johns County",Surfing,Jason Smith,M,28,N,13h00,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand,Jun
+2002.06.09.b,09-Jun-2002,2002.0,Unprovoked,USA,Florida,"South of Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Craig Taylor,M,50,N,10h40,  ,Jun
+2002.06.09.a,09-Jun-2002,2002.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Swimming,Corey Brooks,M,10,N,13h00,,Jun
+2002.05.31.b,31-May-2002,2002.0,Unprovoked,USA,California,"Stinson Beach, Marin County",Surfing,Lee Fontan,M,24,N,14h15,3.7 m to 4.3 m [12' to 14'] white shark,May
+2002.04.18,18-Apr-2002,2002.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Sutliff,M,28,N,11h10,,Apr
+2002.03.15.b,15-Mar-2002,2002.0,Unprovoked,USA,Florida,"Deerfield Beach (near Boca Raton), Broward County",Snorkeling,Robert Land,M,39,N,Morning,"Nurse shark, 1m ",Mar
+2002.03.15.a,15-Mar-2002,2002.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,31,N,10h55,"Spinner shark, 3' to 4' ",Mar
+2002.01.01.a,01-Jan-2002,2002.0,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,Thomas Holmes,M,35,N,13h00,"Tiger shark, 1.8 m [6'] ",Jan
+2001.11.14,14-Nov-2001,2001.0,Unprovoked,USA,Hawaii,"Kapalua, Maui",Surfing,M. Schweitzer,,,N,17h00,,Nov
+2001.09.18,18-Sep-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Blaise Mosler,M,14,N,15h00,,Sep
+2001.09.15.a,15-Sep-2001,2001.0,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Surfing,"Dale Fulcher, Jr.",M,16,N,13h45,,Sep
+2001.09.03.a,03-Sep-2001,2001.0,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Swimming,Natalia (Natasha) Slobonskaya,F,23,N,18h00,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,Sep
+2001.08.22,22-Aug-2001,2001.0,Unprovoked,USA,Florida,"Daytona, Volusia County ",Surfing,Lowell Lutz,M,17,N,16h20,a small shark,Aug
+2001.08.21,21-Aug-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Omar Oyarce,M,27,N,16h00,,Aug
+2001.08.19.c,19-Aug-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Kurrek,M,32,N,13h14,,Aug
+2001.08.19.b,19-Aug-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Becky Chapman,F,17,N,13h06,,Aug
+2001.08.19.a,19-Aug-2001,2001.0,Unprovoked,USA,Florida,"Wilbur-by-the-Sea, Volusia County",Surfing,female,F,17,N,11h20,,Aug
+2001.08.18.c,18-Aug-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jeff White,M,20,N,12h30,Possibly  a blacktip or spinner shark,Aug
+2001.08.18.b,18-Aug-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jaison Valentin,M,19,N,12h05,"3' shark, possibly  a blacktip or spinner shark",Aug
+2001.08.18.a,18-Aug-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Dylan Feindt,M,19,N,10h00,"Blacktip shark, 5' to 6' ",Aug
+2001.07.15.b,15-Jul-2001,2001.0,Unprovoked,USA,Florida,"Santa Rosa Island, Escambia County",Surfing,Michael Waters ,M,48,N,14h30,,Jul
+2001.07.06.a,06-Jul-2001,2001.0,Unprovoked,USA,Florida,Gulf Islands National Seashore,Swimming,Jesse Arbogast,M,8,N,Dusk,"Bull shark, 2.3 m [7.5'] ",Jul
+2001.06.12,12-Jun-2001,2001.0,Unprovoked,USA,Texas,Padre Island National Seashore,Swimming,Jared Black,M,14,N,,1.5 m [5'] shark,Jun
+2001.05.23 ,23-May-2001,2001.0,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,Tripp Choate,M,11,N,,1.2 m to 1.5 m [4.5' to 5'] shark,May
+2001.05.20,20-May-2001,2001.0,Unprovoked,USA,South Carolina,"Fripp Island, Beaufort County",Swimming,Michael Heidenreich,M,,N,19h00,,May
+2001.05.03,03-May-2001,2001.0,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,John McCall,M,45,N,19h00,1.2 m to 1.5 m [4' to 5'] shark,May
+2001.04.13.b,13-Apr-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jonathan Bush,M,16,N,11h00,,Apr
+2001.04.13.a,13-Apr-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Andrew Barron,M,12,N,10h55,Possibly a juvenile blacktip or spinner shark,Apr
+2001.04.12.d,12-Apr-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Richard Spence,M,38,N,16h45,,Apr
+2001.04.12.c,12-Apr-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Emmet Browning,M,21,N,16h05,Possibly a juvenile blacktip or spinner shark,Apr
+2001.04.12.a,12-Apr-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,Richard Lloyd,M,22,N,11h53,Possibly a 1.5 m [5'] blacktip or spinner shark,Apr
+2001.04.11.d,11-Apr-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Elren Thresher,M,19,N,8:04 pm,Possibly a juvenile blacktip or spinner shark,Apr
+2001.04.11.c,11-Apr-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,Jordan Carter,M,22,N,12h46,,Apr
+2001.04.11.a,11-Apr-2001,2001.0,Unprovoked,USA,Hawaii,"Ewa Beach, O'ahu",Surfing,Gilbert Dano,M,,N,07h00,"1 m shark, possibly whitetip reef shark",Apr
+2001.04.10,10-Apr-2001,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,a surfer from Port Orange,,16,N,,Possibly a juvenile blacktip or spinner shark,Apr
+2001.03.09,09-Mar-2001,2001.0,Unprovoked,USA,Florida,"Coral Cove Park, Jupiter Island, Martin County",Surfing,Chad Hooker,M,,N,,"Spinner shark, 1.2 m to 1.5 m [4' to 5'] ",Mar
+2001.01.09,09-Jan-2001,2001.0,Unprovoked,USA,California,"Sunset Cliffs, San Diego",Surfing,Larry McCash,M,,N,,"1.8 m to 2.4 m [6' to 8'] ""black finned shark""",Jan
+2000.11.18,17-Nov-2000,2000.0,Unprovoked,USA,Florida,"Bonita Springs, Lee County",Swimming,Colin Shadforth,M,73,N,12h00,1.2 m to 1.8 m [4' to 6'] shark,Nov
+2000.11.04,04-Nov-2000,2000.0,Unprovoked,USA,California,"1/4 to 1/2 m north of the jetty at Bunkers, Eureka, Humboldt County",Surfing,Casey Stewman,M,27,N,16h30,"White shark, 2.4 m to 3 m [8' to 10'] ",Nov
+2000.10.20,20-Oct-2000,2000.0,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St Lucie County",Surfing,Jason Licamele,M,23,N,18h00,,Oct
+2000.10.14,14-Oct-2000,2000.0,Unprovoked,USA,Florida,"South Beach, Sebastian, Indian River County",Swimming,Norman Payne,M,69,N,15h30,,Oct
+2000.10.09,09-Oct-2000,2000.0,Unprovoked,USA,Florida,"Lake Worth Inlet/West Palm Beach, Palm Beach County",Surfing,Matt Kraskiewicz,M,17,N,Morning,2.1 to 2.4 m [7' to 8'] shark,Oct
+2000.10.06.b,06-Oct-2000,2000.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Austin White,M,23,N,14h30,"Blacktip shark, 2' ",Oct
+2000.10.02,02-Oct-2000,2000.0,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Surfing,Mark Taylor,M,24,N,16h30,,Oct
+2000.09.12,12-Sep-2000,2000.0,Unprovoked,USA,Florida,"Sebastian Inlet, Indian River or Brevard County",Surfing,Brenda Fried,F,26,N,12h00,,Sep
+2000.09.10.b,10-Sep-2000,2000.0,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,male,M,8,N,17h42,,Sep
+2000.08.31,31-Aug-2000,2000.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,Rickey Johnson,M,47,N,12h35,A 2' shark was seen in the area by witnesses,Aug
+2000.07.22,22-Jul-2000,2000.0,Unprovoked,USA,Florida,"Big Pine Key, Monroe County ",Snorkeling,Andrea Nani,F,45,N,,"Nurse shark, 1.5 m [5']",Jul
+2000.07.17,17-Jul-2000,2000.0,Unprovoked,USA,North Carolina,"Oceanic Pier, Wrightsville Beach, New Hanover County",Surfing,Patrick G. Bruff,M,16,N,,,Jul
+2000.07.16.b,16-Jul-2000,2000.0,Unprovoked,USA,North Carolina,"Holden Beach, Brunswick County",Surfing,Tim Poynter,M,14,N,,1.8 m [6'] grey-colored shark,Jul
+2000.06.10,10-Jun-2000,2000.0,Unprovoked,USA,Texas,"J.P. Luby Surf Park, Corpus Christi",Surfing,Kenny Alexander,M,17,N,16h00,"Blacktip shark, 1.2 m to 1.8 m [4' to 6'] ",Jun
+2000.06.09.b,09-Jun-2000,2000.0,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Swimming,Richard Whatley,M,55,N,06h45,Bull shark?,Jun
+2000.06.02,02-Jun-2000,2000.0,Unprovoked,USA,Florida,"27th Avenue, New Smyrna Beach, Volusia County",Snorkeling,Brian Alcorn,M,13,N,14h55,,Jun
+2000.03.24,24-Mar-2000,2000.0,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Barry Pasonski,M,37,N,14h00,1.2 m [4'] shark,Mar
+1999.12.02,02-Dec-1999,1999.0,Unprovoked,USA,Florida,"Boynton Beach, Palm Beach County",Surfing,male,M,35,N,12h30,,Dec
+1999.11.30,30-Nov-1999,1999.0,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,Jeremiah Wyche,M,19,N,15h30,,Nov
+1999.11.23,23-Nov-1999,1999.0,Unprovoked,USA,Hawaii,"Big Island off Kona Village Resort, North Kona",Swimming,Laurie Boyette,F,51,N,17h20,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Nov
+1999.10.20,20-Oct-1999,1999.0,Unprovoked,USA,Florida,"Pet Den, Satellite Beach, Brevard County",Surfing,David Hunt,M,,N,Noon,"Lemon shark, 2.7 m [9'] ",Oct
+1999.09.05,05-Sep-1999,1999.0,Unprovoked,USA,Florida,"Fort Pierce Inlet, St. Lucie County",Surfing,Mike Sprague,M,13,N,,1.5 m to 1.8 m [5' to 6'] shark,Sep
+1999.08.26,26-Aug-1999,1999.0,Unprovoked,USA,Florida,"Bethune Beach, south of New Smyrna Beach, Volusia County",Surfing,Chris Ayers,M,28,N,14h30,"""a small shark""",Aug
+1999.08.24,24-Aug-1999,1999.0,Unprovoked,USA,North Carolina,"Fort Fisher, New Hanover County",Surfing,male,M,,N,,,Aug
+1999.08.21,21-Aug-1999,1999.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,G.C.,M,17,N,18h40,,Aug
+1999.07.21,21-Jul-1999,1999.0,Unprovoked,USA,Hawaii,Honoli'i in Hilo (west side of Big Island),Surfing,Griffith Yamaguchi,M,43,N,10h28,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Jul
+1999.06.17,17-Jun-1999,1999.0,Unprovoked,USA,Florida,"South of Ponce Inlet, Volusia County",Surfing,Lucas Bryant,M,21,N,09h15,3' to 4' shark,Jun
+1999.06.12,12-Jun-1999,1999.0,Unprovoked,USA,Florida,"Atlantiic Beach, Duval County",Swimming,male,M,41,N,13h15,,Jun
+1999.04.01,01-Apr-1999,1999.0,Unprovoked,USA,Florida,"Hobe Sound Beach, Palm Beach County",Surfing,male,M,14,N,,,Apr
+1999.02.03,03-Feb-1999,1999.0,Unprovoked,USA,Florida,"Hobe Sound, Martin County",Surfing,Kenny Burns,M,25,N,15h30,Spinner shark,Feb
+1998.12.24,24-Dec-1998,1998.0,Provoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Andy Thompson,M,19,N,08h30,,Dec
+1998.11.21,21-Nov-1998,1998.0,Unprovoked,USA,Florida,"Ocean Beach, Jaycee Park, Vero Beach, Indian River County",Swimming,James Willie Tellasmon,M,9,Y,14h00,Tiger shark,Nov
+1998.11.14,14-Nov-1998,1998.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Larry Foor,M,14,N,08h45,1.2 m [4'] shark,Nov
+1998.11.05,05-Nov-1998,1998.0,Unprovoked,USA,Oregon,Winchester Bay,Surfing,Dale Inskeep,M,32,N,,"White shark, 5 m  to 6 m [16.5' to 20'] ",Nov
+1998.10.24,24-Oct-1998,1998.0,Unprovoked,USA,Florida,"Jupiter Beach, Palm Beach County",Swimming,Jessica Stephens,F,17,N,Afternoon,,Oct
+1998.10.10,10-Oct-1998,1998.0,Unprovoked,USA,Florida,"Sebastian Inlet, Indian River County",Surfing,Jarod Ruszkowski ,M,,N,,,Oct
+1998.09.27,27-Sep-1998,1998.0,Unprovoked,USA,Florida,"The Rocks, Hutchinson Island, Martin County",Surfing,Kai Haire,M,6,N,,,Sep
+1998.09.22,22-Sep-1998,1998.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jade Blackstock,M,18,N,15h35,,Sep
+1998.09.14,14-Sep-1998,1998.0,Unprovoked,USA,Florida,"Stuart Beach, Martin County",Surfing,Danny Hoopes,M,28,N,,1.8 m [6'] shark,Sep
+1998.08.30,30-Aug-1998,1998.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,J. Howington,M,26,N,20h15,3' to 4' shark,Aug
+1998.07.25,25-Jul-1998,1998.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Michael Rinto,M,13,N,P.M.,,Jul
+1998.06.08,08-Jun-1998,1998.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Brian Catarra,M,18,N,18h00,,Jun
+1998.05.25,25-May-1998,1998.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jack Mounteer,M,40,N,11h10,"Lemon shark, 1.5 m [5'], identified  by the surfer",May
+1998.05.16.c,16-May-1998,1998.0,Unprovoked,USA,Florida,"Pecks Lake, Martin County",Swimming,Janelle Dickinson,F,14,N,14h30,"1.8 m [6'] shark, possibly a blacktip",May
+1998.03.31,31-Mar-1998,1998.0,Unprovoked,USA,Florida,"Jensen Beach Park, Martin County",Swimming,male,M,40,N,15h30,,Mar
+1998.02.23,23-Feb-1998,1998.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,Gordon Wilson,M,,N,09h35,Spinner shark,Feb
+1997.12.25.a,25-Dec-1997,1997.0,Unprovoked,USA,Florida,"Hollywood Beach, Broward County",Swimming,Samuel Lussier,M,8,N,,,Dec
+1997.11.05.R,Reported 05-Nov-1997,1997.0,Unprovoked,USA,Florida,,Swimming,"James Ogilvy, 31st in line for the British Throne",M,32,N,Mid morning,,Nov
+1997.10.24,24-Oct-1997,1997.0,Unprovoked,USA,Florida,"North Jetty, Fort Pierce Inlet State Park, St. Lucie County",Surfing,Luis Morales,M,23,N,17h15,Possibly a blacktip shark,Oct
+1997.10.21,21-Oct-1997,1997.0,Unprovoked,USA,Florida,"North Jetty, Fort Pierce Inlet State Park, St. Lucie County",Surfing,Jacob McBee,M,12,N,18h00,1.2 m to 1.5 m [4' to 5'] shark,Oct
+1997.10.04,04-Oct-1997,1997.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Swimming,Tara Stalnaker,F,14,N,08h30,,Oct
+1997.09.09,09-Sep-1997,1997.0,Unprovoked,USA,Florida,Volusia County  ,Surfing,G.D.,M,12,N,17h15,,Sep
+1997.09.08,08-Sep-1997,1997.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,,17,N,Evening,small blacktip shark,Sep
+1997.09.06,06-Sep-1997,1997.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Lange,M,20,N,15h20,,Sep
+1997.08.30,30-Aug-1997,1997.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chris Hoyas,M,18,N,13h00,,Aug
+1997.08.09,09-Aug-1997,1997.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,N,17h15,,Aug
+1997.06.09,09-Jun-1997,1997.0,Unprovoked,USA,Florida, Palm Beach County,Surfing,Michael Massey,M,18,N,18h00,Possibly a spinner shark,Jun
+1997.05.31.b,31-May-1997,1997.0,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,Robert Fuller,M,34,N,11h00,Possibly a sand shark,May
+1997.05.31.a,31-May-1997,1997.0,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,Johnny  Bowden,M,12,N,11h00,Possibly a sand shark,May
+1996.11.29.a,29-Nov-1996,1996.0,Unprovoked,USA,California,"Salmon Creek Beach, Sonoma County",Surfing,Greg Ferry,M,45,N,08h30,3 m to 5 m [10' to 16.5'] white shark,Nov
+1996.11.18,18-Nov-1996,1996.0,Unprovoked,USA,Florida,"Coral Cove Park, Palm Beach County",Surfing,Adam Urban ,M,26,N,17h00,,Nov
+1996.10.05.,05-Oct-1996,1996.0,Unprovoked,USA,California,"Dillon Beach, Marin County",Surfing,Mark Quirt,M,22,N,13h00,5.5 m to 6 m [18' to 20'] white shark,Oct
+1996.10.03.b,03-Oct-1996,1996.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,Aric Hollingsworth,M,21,N,08h30,1.2 m [4'] shark,Oct
+1996.10.03.a,03-Oct-1996,1996.0,Unprovoked,USA,California,"North Salmon Creek Beach, Sonoma County",Surfing,Kennon Cahill,M,31,N,07h19,5 m [16.5'] white shark,Oct
+1996.09.18,18-Sep-1996,1996.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,Robert Gary,M,14,N,13h37,,Sep
+1996.07.21,21-Jul-1996,1996.0,Unprovoked,USA,Massachusetts,"Truro (Cape Cod), Barnstable County",Swimming,James Orlowski,M,46,N,,6' shark,Jul
+1996.07.20,20-Jul-1996,1996.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,K.O.,M,9,N,13h30,,Jul
+1996.05.18,18-May-1996,1996.0,Unprovoked,USA,Florida,"South of Ponce Inlet, Volusia County",Surfing,Mike Rebel,M,22,N,13h40,1.2 m [4'] shark,May
+1996.05.07,07-May-1996,1996.0,Unprovoked,USA,Florida,"Shark Shallows, Ponce Inlet, Volusia County",Surfing,Jimmy Grunewald,M,27,N,11h06,60 cm to 90 cm [2' to 3'] blacktip or spinner shark,May
+1995.10.21,21-Oct-1995,1995.0,Unprovoked,USA,Florida,"North Beach, St. Lucie County",Surfing,John Foley,M,17,N,,,Oct
+1995.10.01,01-Oct-1995,1995.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Stephen Massfeller,M,39,N,11h30,1.2 m to 1.5 m [4' to 5']   shark,Oct
+1995.09.30.b,30-Sep-1995,1995.0,Unprovoked,USA,Florida,"Crescent Beach, St. Augustine, St. Johns County",Surfing,Jon Grace,M,14,N,Morning,1.5 to 1.8 m [5' to 6'] shark,Sep
+1995.09.30.a,30-Sep-1995,1995.0,Unprovoked,USA,Florida,"North Beach, Hutchinson Island, St. Lucie County",Surfing,Ryan Evans,M,17,N,,,Sep
+1995.09.19.,19-Sep-1995,1995.0,Unprovoked,USA,Florida,"Matanzas Bay Inlet, St. Johns County",Surfing,Gavin Korth,M,19,N,,1.8 m [6'] shark,Sep
+1995.09.17,17-Sep-1995,1995.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Swimming,Jill Varney,F,19,N,15h40,,Sep
+1995.08.31.b,31-Aug-1995,1995.0,Unprovoked,USA,Florida,"North Beach Inlet, St. Lucie County",Surfing,Jason Cablish,M,19,N,,1.2 m to 1.5 m [4' to 5'] shark,Aug
+1995.08.26/b,26-Aug-1995,1995.0,Unprovoked,USA,Florida,"Crescent Beach, St. Johns County",Surfing,Brian Korth,M,16,N,18h30,5' shark,Aug
+1995.08.26.a,26-Aug-1995,1995.0,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County",Surfing,Dwight Irvin,M,18,N,14h10,"""a small shark""",Aug
+1995.08.25,25-Aug-1995,1995.0,Unprovoked,USA,North Carolina,"Off Masonboro Island, New Hanover County",Swimming,Michael Greenwood,M,16,N,"""Night""",1.2 m to 1.5 m [4' to 5'] shark,Aug
+1995.08.22.a,22-Aug-1995,1995.0,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County",Surfing,Jason Barzo,M,19,N,19h00,"""small shark""",Aug
+1995.08.21,21-Aug-1995,1995.0,Unprovoked,USA,North Carolina,Cape Lookout Bight,Diving,,,,N,,Two 1.2 m to 1.5 m [4' to 5'] sharks,Aug
+1995.08.10.b,10-Aug-1995,1995.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,20,N,13h30,,Aug
+1995.07.28.e,28-Jul-1995,1995.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,N,16h30,,Jul
+1995.07.28.d,28-Jul-1995,1995.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,,N,14h45,,Jul
+1995.07.28.c,28-Jul-1995,1995.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Patrick Moore,M,18,N,14h10,,Jul
+1995.07.24,24-Jul-1995,1995.0,Unprovoked,USA,South Carolina,"Pawleys Island, Georgetown County",Swimming,female,F,7,N,,,Jul
+1995.07.06,06-Jul-1995,1995.0,Unprovoked,USA,Texas,Port Aransas,Surfing,Mark George,M,34,N,,,Jul
+1995.06.17.b,17-Jun-1995,1995.0,Unprovoked,USA,South Carolina,"Garden City Beach, Horry County",Surfing,Jim Whitney,M,,N,,,Jun
+1995.06.17.a,17-Jun-1995,1995.0,Unprovoked,USA,Florida,"Jensen Beach Park, Martin County",Swimming,Paul Lucas,M,45,N,18h30?,1.8 m [6'] shark,Jun
+1995.06.16,16-Jun-1995,1995.0,Unprovoked,USA,Florida,"Tiger Shores Beach, Martin County",Swimming,Amber Delmans,F,10,N,14h00,6' shark,Jun
+1995.06.14,14-Jun-1995,1995.0,Unprovoked,USA,Hawaii,"Opposite Grand Wailea Resort, Wailea, Maui",Swimming,Donald Bloom,M,38,N,11h50,"Tiger shark, 3.7 m [12'] ",Jun
+1995.05.26,26-May-1995,1995.0,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Surfing,Brent Enck,M,15,N,,Possibly a bull shark,May
+1994.11.06.a,06-Nov-1994,1994.0,Unprovoked,USA,Hawaii,"Kealia Beach, Kaua'i",Surfing,C. Stokes,,,N,16h00,,Nov
+1994.10.05,05-Oct-1994,1994.0,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,Scott Dulmage,M,16,N,12h00,,Oct
+1994.09.26,26-Sep-1994,1994.0,Unprovoked,USA,South Carolina,"North Forest Beach, near Hilton Head, Beaufort County",Swimming,Lioubov Kozarinova,F,30,N,,,Sep
+1994.09.21,21-Sep-1994,1994.0,Unprovoked,USA,Oregon,"Short Sand Beach, Oswald West State Park",Surfing,Rob MacKenzie,M,43,N,16h30,5 m [16.5'] white shark,Sep
+1994.07.08.a,08-Jul-1994,1994.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Michael Post ,M,15,N,15h00,"""small shark""",Jul
+1994.05.31.b,31-May-1994,1994.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Steve Polack,M,24,N,10h30,,May
+1994.05.31.a,31-May-1994,1994.0,Unprovoked,USA,Florida," Daytona Beach, Volusia County",Surfing,Alex Reeber,M, 28,N,08h00,1.2 m [4'] spinner shark,May
+1994.05.15,15-May-1994,1994.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joel Tatro,M,22,N,08h30,>1.8 m [6'] shark,May
+1994.02.19,19-Feb-1994,1994.0,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing,Edwin Riley III,M,23,N,13h00,1.2 m [4'] shark,Feb
+1994.01.31.a,31-Jan-1994,1994.0,Unprovoked,USA,Hawaii,"Velzyland, north shore of O'ahu",Surfing,Jim Broach,M,,Y,,Tiger shark,Jan
+1993.12.00,Dec-1993,1993.0,Unprovoked,USA,Hawaii,Waipo,Surfing,Daniel McMoyler,M,,Y,,"On 11-Jan-1994, his remains washed ashore. A 2.4 m [8'] tiger shark thought to be involved",Dec
+1993.11.28,28-Nov-1993,1993.0,Unprovoked,USA,Florida,"North Beach Jetty, St Lucie County",Swimming,Scott Johnson,M,30,N,,,Nov
+1993.10.30,30-Oct-1993,1993.0,Unprovoked,USA,California,"""Bunkers"" Eureka, Humboldt County",Surfing,Robert Williams,M,26,N,16h30,4 m to 5 m [13' to 16.5'] white shark,Oct
+1993.10.26,26-Oct-1993,1993.0,Unprovoked,USA,Florida,"Treasure Shores Beach, Indian River County",Swimming,Dawn Schaumann (6.5 months pregnant),F,26,N,10h00,3 m [10'] bull shark,Oct
+1993.10.00,Oct-1993,1993.0,Unprovoked,USA,Hawaii,"Mouth of Wallua River, Kaua'i",Surfing,,,,N,,Tiger shark,Oct
+1993.08.19.R,Reported      19-Aug-1993,1993.0,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,Shawn Bushong ,,13,N,,,Aug
+1993.06.00,Jun-1993,1993.0,Unprovoked,USA,North Carolina,"Hamstead, Pender County",Swimming,Suzanne Pferrer,F,60's,N,Dusk,6' shark,Jun
+1993.01.02,02-Jan-1993,1993.0,Unprovoked,USA,Oregon,"Bastendorf Beach, Coos County",Surfing,William Weaver,M,29,N,16h30,6 m [20'] white shark,Jan
+1992.11.25.a,25-Nov-1992,1992.0,Unprovoked,USA,Florida,"Brevard County, a mile north of Sebastian Inlet",Surfing,Matthew Robertson Paul,M,19,N,07h30,6' to 7' blacktip shark,Nov
+1992.11.23,23-Nov-1992,1992.0,Unprovoked,USA,Florida,,Surfing,Larry Bush,M,24,N,13h00,1.8 m [6'] shark,Nov
+1992.11.05.b,06-Nov-1992,1992.0,Unprovoked,USA,Florida,"North Jetty Park, Fort Pierce, St Lucie County",Surfing,Josh Greinstein ,M,17,N,14h15,,Nov
+1992.10.22,22-Oct-1992,1992.0,Unprovoked,USA,Hawaii,"Lanaikea, O'ahu",Surfing,Rick (Eric) Gruzinsky,M,28,N,07h40,"Tiger shark, 4.3 m [14'] ",Oct
+1992.09.13,13-Sep-1992,1992.0,Unprovoked,USA,Oregon,"Gold Beach, Curry County",Surfing,Jerad Brittain,M,20,N,17h00,4 m to 5 m [13' to 16.5']  white shark ,Sep
+1992.08.18,18-Aug-1992,1992.0,Unprovoked,USA,California,"Klamath River, Del Norte County",Surfing,Keith Caruso,M,22,N,17h00,5.5 m to 6 m [18' to 20'] white shark,Aug
+1992.08.17,17-Aug-1992,1992.0,Provoked,USA,Florida,"Manalapan, Palm Beach County",Snorkeling,Rod Duguid,M,26,N,,"Nurse shark, 3', 20-lb ",Aug
+1991.11.26.b,26-Nov-1991,1991.0,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,Martha Joy Morrell,F,41,Y,09h00,"Tiger shark, 2.4 m 3.4 m [8' to 11']  ",Nov
+1991.11.26.a,26-Nov-1991,1991.0,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,Louise Sourisseau,F,,N,09h00,"Tiger shark, 2.4 m 3.4 m [8' to 11']  ",Nov
+1991.10.12,12-Oct-1991,1991.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Cliff Turner,M,21,N,08h30,1.8 m [6'] shark,Oct
+1991.10.05,05-Oct-1991,1991.0,Unprovoked,USA,California,"Horseshoe Reef, Scott Creek, Davenport, Santa Cruz County",Surfing,John Ferrerira,M,32,N,07h30,5 m to 6 m [16.5' to 20'] white shark,Oct
+1991.08.26,26-Aug-1991,1991.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,Brad Hibshman,M,23,N,13h30,sand shark,Aug
+1991.07.27,27-Jul-1991,1991.0,Unprovoked,USA,Florida,"John Pennekamp Marine Park, Monroe County",Snorkeling,Jim Yarber,M,39,N,,"2.1 m [7'], 140-lb reef shark",Jul
+1991.07.07,07-Jul-1991,1991.0,Unprovoked,USA,Florida,"South Miami Beach, Dade County",Swimming,Jorge Garcia,M,22,N,18h45,,Jul
+1991.07.01.a,01-Jul-1991,1991.0,Unprovoked,USA,California,"8.5 miles south of Ano Nuevo State Reserve, Davenport County",Surfing,Eric Larsen,M,32,N,09h30,5 m [16.5'] white shark,Jul
+1991.06.26,26-Jun-1991,1991.0,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Joe Bosque,M,18,N,17h30,,Jun
+1991.04.16.b,16-Apr-1991,1991.0,Provoked,USA,Maryland,Baltimore Aquarium,Diving,a senior aquarist,,,N,09h55,7' female shark,Apr
+1991.02.24,24-Feb-1991,1991.0,Unprovoked,USA,Oregon,"Neskowin, Tillamook County",Surfing,Tony Franciscone,M,38,N,09h30,5.5 m [18'] white shark,Feb
+1990.11.01,01-Nov-1990,1990.0,Unprovoked,USA,Florida,"Spanish River Park Beach, Palm Beach County",Surfing,James Cornell,M,24,N,09h30,5' shark,Nov
+1990.10.30.b,30-Oct-1990,1990.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Robert Spratt,M,50,N,16h55,1.8 m [6'] shark ,Oct
+1990.10.30.a,30-Oct-1990,1990.0,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,Mark Evans,M,18,N,15h30,,Oct
+1990.10.20,20-Oct-1990,1990.0,Unprovoked,USA,Florida,"North end of County Beach, Palm Beach County",Surfing,Carl Demers,M,25,N,16h00,4' spinner shark,Oct
+1990.10.15,15-Oct-1990,1990.0,Unprovoked,USA,Hawaii,"Hanalei Point, Kaua'i",Surfing,Greg Filtzer,M,43,N,15h00,"Tiger shark, 3.7 m [12'] ",Oct
+1990.10.12,12-Oct-1990,1990.0,Unprovoked,USA,Florida,"Stuart Beach, Martin County",Surfing,Gabe Martino,M,19,N,12h30,1.8 m to 2.4 m [6' to 8'] shark,Oct
+1990.08.28,28-Aug-1990,1990.0,Unprovoked,USA,California,"Trinidad Head, Humboldt County",Surfing,Rodney Swan,M,22,N,16h50,5 m to 6 m [16.5' to 20'] white shark,Aug
+1990.08.19.b,19-Aug-1990,1990.0,Unprovoked,USA,Texas,"Mustang Island, Nueces County",Surfing,male,M,,N,,,Aug
+1990.07.08,08-Jul-1990,1990.0,Unprovoked,USA,Florida,"Perdido Key near the Florida Panhandle, Escambia County",Surfing,Scott Holloway,M,17,N,,,Jul
+1989.10.11,11-Oct-1989,1989.0,Unprovoked,USA,Texas,Surfside Beach,Surfing,Jason Largent,M,12,N,Evening,4' shark,Oct
+1989.09.09.a,09-Sep-1989,1989.0,Unprovoked,USA,North Carolina,"Salvo, Dare County",Surfing,Robert Ballard,M,31,N,,Sandbar shark,Sep
+1989.08.22.b,22-Aug-1989,1989.0,Unprovoked,USA,Florida,"St Augustine, St Johns County",Swimming,Anthony McKnight,M,21,N,,1.2 m [4'] shark,Aug
+1989.07.14,14-Jul-1989,1989.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,John O'Brien,M,16,N,Afternoon,,Jul
+1989.04.23,23-Apr-1989,1989.0,Unprovoked,USA,Florida,"Loggerhead Park, Juno Beach, Palm Beach County",Swimming,Scott Scherger,M,19,N,,1.2 m [4'] shark,Apr
+1988.10.14,14-Oct-1988,1988.0,Unprovoked,USA,Florida,"Boca Raton, Palm Beach County",Surfing,Aaron Shulman,M,15,N,,6' shark,Oct
+1988.10.11,11-Oct-1988,1988.0,Unprovoked,USA,Florida,"Fort Pierce, St. Lucie County ",Surfing,John L. Goodson,M,30,N,X,1.2 m to 1.5 m [4' to 5'] shark,Oct
+1988.10.10,10-Oct-1988,1988.0,Unprovoked,USA,Florida,"Playalinda, Brevard County",Surfing,Patrick Turowski,M,23,N,18h30,1.2 m to 1.5 m [4' to 5'] shark,Oct
+1988.09.28,28-Sep-1988,1988.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chris Garvin,M,21,N,Afternoon,5' shark,Sep
+1988.09.13.a,13-Sep-1988,1988.0,Unprovoked,USA,Florida,"Shell Island Panama City Beach, Bay County",Snorkeling,John P. Martin ,M,38,Y,15h00,3 m [10'] bull shark,Sep
+1988.08.11,11-Aug-1988,1988.0,Unprovoked,USA,California,"Klamath River, Del Norte County",Surfing,Carl Lafazio,M,27,N,09h30,2.4 m to 3 m [8' to 10'] white shark,Aug
+1988.07.11,11-Jul-1988,1988.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,female,F,15,N,10h30,,Jul
+1988.06.05,05-Jun-1988,1988.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Swimming,Jason Jones,M,12,N,12h00,,Jun
+1988.06.01,01-Jun-1988,1988.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Etienne DeCora,M,25,N,08h57,1.8 m to 2.4 m [6' to 8'] shark,Jun
+1988.05.10,10-May-1988,1988.0,Unprovoked,USA,Florida,"Paradise Beach Park, Brevard County",Surfing,Philip Barone,M,31,N,18h30,,May
+1988.04.24,24-Apr-1988,1988.0,Unprovoked,USA,California,"North of Morro Rock, San Luis Obispo County",Surfing,Mark Rudy,M,,N,,White shark,Apr
+1988.04.15a,15-Apr-1988,1988.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Swimming,Robert Nicholson,M,24,N,18h45,,Apr
+1988.04.14.b,14-Apr-1988,1988.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,Kenny Burns,M,14,N,,,Apr
+1987.12.17,17-Dec-1987,1987.0,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,Timothy Knipper,M,16,N,13h00,1.8 m [6'] blacktip shark,Dec
+1987.11.21,21-Nov-1987,1987.0,Unprovoked,USA,Florida,"North of Jupiter Inlet, Palm Beach County",Surfing,Brian Tyska ,M,15,N,,,Nov
+1987.10.26,26-Oct-1987,1987.0,Unprovoked,USA,California,"Davenport Light, San Mateo County",Surfing,Conrad Brown,M,20,N,17h00,2 m [6.75'] shark,Oct
+1987.07.21,21-Jul-1987,1987.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Egor Emery,M,27,N,09h15,3' to 4' shark,Jul
+1987.05.08,08-May-1987,1987.0,Unprovoked,USA,Florida,"St Augustine, St. Johns County",Surfing,Robert Gault,M,,N,,,May
+1987.04.18,18-Apr-1987,1987.0,Unprovoked,USA,Texas,"Mustang Island, near Port Aransas",Swimming,April Dawn  Vogelino,F,16,N,18h00,,Apr
+1986.12.11,11-Dec-1986,1986.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Bob Earnhardt,M,40,N,14h00,1.8 m to 2.1 m [6' to 7'] spinner or blacktip shark,Dec
+1986.11.30,30-Nov-1986,1986.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Brad Bowen,M,17,N,10h30,,Nov
+1986.11.19,19-Nov-1986,1986.0,Unprovoked,USA,Florida,"Indiatlantic, Brevard County",Surfing,Keith Helm,M,26,N,10h40,,Nov
+1986.11.04,04-Nov-1986,1986.0,Unprovoked,USA,Florida,"Tiger Shores Beach, Martin County",Surfing,Daniel Lund,M,23,N,,,Nov
+1986.10.03,03-Oct-1986,1986.0,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Swimming,Luz Helena  Florez,F,6,N,18h00,"Lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered",Oct
+1986.10.00,Oct-1986,1986.0,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Ron Dubois,M,28,N,,Bull shark,Oct
+1986.09.00.b,Sep-1986,1986.0,Unprovoked,USA,Florida,"Ormond Beach / Daytona Beach, Volusia County",Surfing,Anonymous,,,N,,,Sep
+1986.09.00.a,Sep-1986,1986.0,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,Anonymous,,18,N,,,Sep
+1986.08.19,19-Aug-1986,1986.0,Unprovoked,USA,North Carolina,"Masonboro Inlet, New Hanover County",Surfing,J. McCorley,,16,N,,,Aug
+1986.01.12,12-Jan-1986,1986.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,Christopher Blissel,M,22,N,08h35,Blacktip shark,Jan
+1985.07.25.a,25-Jul-1985,1985.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jason Lee,M,15,N,10h22,,Jul
+1985.03.16,16-Mar-1985,1985.0,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,David Zarnowski,M,25,N,,,Mar
+1985.02.03,03-Feb-1985,1985.0,Unprovoked,USA,Florida,"15 miles north of Sebastian Inlet, Brevard County",Surfing,Michael Mesiano,M,16,N,Afternoon,,Feb
+1984.11.11,11-Nov-1984,1984.0,Unprovoked,USA,Florida,"Jupiter Island Beach, Martin County",Surfing,Cooper Stetson,M,13,N,,1.2 m [4'] shark,Nov
+1984.10.14.a,14-Oct-1984,1984.0,Unprovoked,USA,Florida,"Bob Graham Beach, Martin County",Surfing,Thomas C. Westberg ,M,15,N,15h00,1.2 m [4'] blacktip shark,Oct
+1984.09.23,23-Sep-1984,1984.0,Unprovoked,USA,Florida,Volusia County,Surfing,William Miller,M,17,N,14h00,,Sep
+1984.09.22.b,22-Sep-1984,1984.0,Unprovoked,USA,Florida,,Swimming,male from Tampa,M,Elderly,N,,,Sep
+1984.09.22.a,22-Sep-1984,1984.0,Unprovoked,USA,Florida,"Indiatlantic, Brevard County",Surfing,Anthony Carter,M,16,N,Morning,Hammerhead shark?+O2356,Sep
+1984.09.19,19-Sep-1984,1984.0,Unprovoked,USA,Florida,Volusia County,Swimming,,,,UNKNOWN,,,Sep
+1984.07.24.b,24-Jul-1984,1984.0,Unprovoked,USA,Texas,South Padre Island,Swimming,girl,F,13,N,14h30,,Jul
+1984.07.24.a,24-Jul-1984,1984.0,Unprovoked,USA,Texas,South Padre Island,Swimming,Carmen Gaytan,F,18,N,12h00,1.2 m [4'] shark,Jul
+1983.12.25,25-Dec-1983,1983.0,Unprovoked,USA,Florida,"Riviera Beach, Palm Beach County",Surfing,Jeff Herrin,M,17,N,15h30,,Dec
+1983.11.10.R,Reported      10-Nov-1983,1983.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Michael Burns,M,15,N,,Tiger shark,Nov
+1983.10.17.a,17-Oct-1983,1983.0,Unprovoked,USA,Florida,"Stuart Beach, Martin County",Surfing,Aryon Kalein,M,16,N,,1.5 m [5'] shark,Oct
+1983.08.20.b,20-Aug-1983,1983.0,Unprovoked,USA,Oregon,"Cape Kiwanda,Tillamook County",Surfing,Randy Weldon,M,,N,10h00,White shark,Aug
+1983.08.15,15-Aug-1983,1983.0,Unprovoked,USA,Virginia,"Virginia Beach, Princess Anne County",Swimming,Jill Redenbaugh,F,14,N,Morning,Sand shark,Aug
+1983.08.13.a,13-Aug-1983,1983.0,Unprovoked,USA,Florida,"6 miles south of Boca Chica Key, Monroe County ",Diving,Jackie Lynn,F,22,N,Morning,6' to 8' bull shark,Aug
+1983.06.29,29-Jun-1983,1983.0,Unprovoked,USA,Florida,"Off 12th Street, Miami Beach",Swimming,Howard Rosen,M,42,N,11h00,,Jun
+1983.05.24,24-May 1983,1983.0,Unprovoked,USA,Florida," Riviera Beach, Palm Beach County",Surfing,Dave Coulter,M,15,N,,,May
+1983.05.21,21-May-1983,1983.0,Unprovoked,USA,Florida,"Haulover Inlet, Dade County",Surfing,Jonathan Popper,M,22,N,14h00,,May
+1983.04.19,19-Apr-1983,1983.0,Unprovoked,USA,Florida,,Surfing,Arnold Schwarzwood,M,,UNKNOWN,,,Apr
+1983.04.02.b,02-Apr-1983,1983.0,Unprovoked,USA,Florida,"Lake Worth Beach, Palm Beach County",Surfing,Mark Steins,M,16,N,11h00,,Apr
+1983.03.10,10-Mar-1983,1983.0,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing,Dave Lowen,M,,N,,,Mar
+1982.09.27,27-Sep-1982,1982.0,Unprovoked,USA,Florida,"Patrick Air Force Base, Brevard County",Surfing,John Cibelli,M,20,N,13h30,1.5 m [5'] shark,Sep
+1982.09.25,25-Sep-1982,1982.0,Unprovoked,USA,California,"Monastery Beach, Carmel Bay, Monterey County",Diving,Bruce Lang,M,36,N,Morning,White shark,Sep
+1982.07.19,19-Jul-1982,1982.0,Unprovoked,USA,Florida,"Stuart Beach, Martin County ",Swimming,Jonathan Orth,M,17,N,Late afternoon,0.9 m to 1.2 m [3' to 4'] shark,Jul
+1982.07.01,01-Jul-1982,1982.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Swimming,Janet Babb,F,19,N,14h30,,Jul
+1982.06.26.b,26-Jun-1982,1982.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Murray Branson,M,20,N,16h30,5' shark,Jun
+1982.03.10,10-Mar-1982,1982.0,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,Matthew McGrath,M,16,N,14h00,,Mar
+1982.02.27,27-Feb-1982,1982.0,Unprovoked,USA,Florida,"Hobe Sound, Palm Beach County",Surfing,Richard Bauer,M,18,N,,4' to 5' shark,Feb
+1982.02.14.a,14-Feb-1982,1982.0,Unprovoked,USA,Hawaii,"White Plains Beach, Barbers Point, O'ahu",Swimming,female,F,,N,,,Feb
+1982.02.13,13-Feb-1982,1982.0,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Swimming,Gladys Sackville,F,75,Y,Prior to 10h37,,Feb
+1982.02.07..b,07-Feb-1982,1982.0,Unprovoked,USA,Florida,Elliot Key,Diving,Kim Seibel ,M,29,Y,,,Feb
+1981.12.19,19-Dec-1981,1981.0,Unprovoked,USA,California,"South Moss Beach, Spanish Bay, Monterey Peninsula",Surfing,Lewis Boren,M,24,Y,Evening,7 m [23'] white shark,Dec
+1981.10.19.a,19-Oct-1981,1981.0,Unprovoked,USA,Florida,"Jupiter Island, Brevard County",Swimming,Van Horn Ely,M,19,N,11h30,1.8 m to 2.4 m [6' to 8'] shark,Oct
+1981.10.17,17-Oct-1981,1981.0,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,Robert Conklin,M,,UNKNOWN,09h45,,Oct
+1981.10.16,16-Oct-1981,1981.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,Robert Keifling,M,17,N,,,Oct
+1981.10.01,01-Oct-1981,1981.0,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Scott Armstrong,M,24,N,,6' shark,Oct
+1981.09.28,28-Sep-1981,1981.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,Stan Wing,M,28,N,18h00,,Sep
+1981.09.27,27-Sep-1981,1981.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,James Smodell,M,,N,,,Sep
+1981.09.15,15-Sep-1981,1981.0,Unprovoked,USA,Florida,"Tampa Bay, Manatee County",Swimming,Mark Meeker,M,26,Y,P.M.,Said to involve a tiger shark or a hammerhead shark,Sep
+1981.09.03.b,03-Sep-1981,1981.0,Unprovoked,USA,Florida,"Patrick Air Force Base, Brevard County",Surfing,Richard Corrack,M,25,N,12h00,,Sep
+1981.09.03.a,03-Sep-1981,1981.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,Douglas Christie,M,24,N,Morning,,Sep
+1981.08.29,29-Aug-1981,1981.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Stephen Drosdick,M,15,N,,6' shark,Aug
+1981.08.10.b,10-Aug-1981,1981.0,Unprovoked,USA,Florida,"Marathon, Monroe County",Diving,Mike Barber,M,,N,,small nurse shark,Aug
+1981.07.20,20-Jul-1981,1981.0,Unprovoked,USA,Florida,"St. Petersburg Beach, Pinellas County",Swimming,Lisa Drenko,F,16,N,,"""sandshark""",Jul
+1981.05.16,16-May-1981,1981.0,Unprovoked,USA,Florida,"Jacksonville, Duval County",Diving,Carey Ford,M,,N,,Lemon shark,May
+1981.03.24,24-Mar-1981,1981.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,Robert  Thomas,M,24,N,17h30,C. maculpinnis or C. limbatus,Mar
+1981.02.02,02-Feb-1981,1981.0,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing,Michael A. Reist,M,15,N,13h30,1.8 m to 2.4 m [6' to 8'] hammerhead shark,Feb
+1980.10.27,27-Oct-1980,1980.0,Unprovoked,USA,Oregon,Off Umpqua River,Surfing,Christopher Cowan,M,29,N,15h45,4 m to 5 m [13' to 16.5'] white shark,Oct
+1980.10.17,17-Oct-1980,1980.0,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,Curt Vikan,M,19,N,09h30,4 m to 5 m [13' to 16.5'] white shark,Oct
+1980.07.00,Late Jul-1980,1980.0,Unprovoked,USA,North Carolina,"Emerald Isle Pier (near Morehead City), Carteret County",Surfing,male,M,,N,,,Jul
+1980.07.00,Early Jul-1980,1980.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Tom Durrance,M,,N,,,Jul
+1979.11.27,27-Nov-1979,1979.0,Unprovoked,USA,Oregon,"Haystack Rock, Cannon Beach, Clatsop County",Surfing,Kenny Doudt,M,20,N,10h20,"White shark, 4 m [13'] ",Nov
+1979.04.08.b,08-Apr-1979,1979.0,Unprovoked,USA,Florida,"Public Beach (Carlin Park), Jupiter, Palm Beach County",Swimming,Mark Beekler,M,24,N,13h20,,Apr
+1979.03.24,24-Mar-1979,1979.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,Donald A. Stewart,M,27,N,11h30,Blacktip or spinner shark,Mar
+1978.11.26,26-Nov-1978,1978.0,Unprovoked,USA,Hawaii,"Ewa, O'ahu",Surfing,Wendell Cabunoc,M,,N,,2.4 m [8'] shark,Nov
+1978.11.23,23-Nov-1978,1978.0,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,Jorge Alvarez,M,17,N,,,Nov
+1978.06.21.b,21-Jun-1978,1978.0,Unprovoked,USA,Florida,"South of Neptune Beach, Duval County",Surfing,Fred Dean Hunt,M,20,N,,,Jun
+1978.06.21.a,21-Jun-1978,1978.0,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,Mack Shelton,M,17,N,,,Jun
+1977.12.19.b,19-Dec-1977,1977.0,Unprovoked,USA,Florida,"Hobe Sound, Palm Beach County",Surfing,Raymond Brockway,M,27,N,,,Dec
+1977.04.21,21-Apr-1977,1977.0,Unprovoked,USA,Hawaii,"Ka'anapali, Maui",Swimming,Ruskin Vest,M,,N,,1.2 m [4'] shark,Apr
+1976.11.25,25-Nov-1976,1976.0,Unprovoked,USA,Florida,"Delray Beach, Palm Beach County",Surfing,Al Brenneka,M,19,N,10h55,2.1 m [7'] lemon shark or bull shark,Nov
+1976.10.18,18-Oct-1976,1976.0,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,William Kennedy,M,25,N,14h30,"White shark, 3 m to 4 m [10' to 13'] ",Oct
+1976.09.12.b,12-Sep-1976,1976.0,Unprovoked,USA,Florida,"Jacksonville, Duval County",Swimming,"Michael  Karras, Jr.",M,16,Y,,,Sep
+1976.09.12.a,12-Sep-1976,1976.0,Unprovoked,USA,Florida,"Jacksonville, Duval County",Swimming,"Ricky Karras, Jr.",M,,Y,,,Sep
+1976.09.06,06-Sep-1976,1976.0,Unprovoked,USA,Florida,"Sebastian, Indian River County",Surfing,Peter Ferrer,M,15,N,14h00,"Tiger shark, 6' ",Sep
+1976.08.24,24-Aug-1976,1976.0,Unprovoked,USA,Oregon,Winchester Bay,Surfing,Mike Shook,M,19,N,14h00,"White shark, 4.5 m ",Aug
+1976.06.10,10-Jun-1976,1976.0,Unprovoked,USA,Hawaii,"Kama'ole Beach, Park No. 1, Kihei, Maui",Swimming,Donald Gard,M,,N,,0.9 m to 1.5 m [3' to 5'] shark,Jun
+1975.11.02,02-Nov-1975,1975.0,Unprovoked,USA,Florida,"Crescent Beach, St. Johns County",Surfing,Scott Lee Hurst,M,18,N,,6' shark,Nov
+1975.07.15,15-Jul-1975,1975.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,Beverly White,F,14,N,Mid-morning,1.2 m [4'] shark,Jul
+1975.07.04,04-Jul-1975,1975.0,Unprovoked,USA,Florida,"Indiatlantic, Brevard County",Surfing,Robert Clark,M,16,N,,,Jul
+1975.06.02.R,Reported 02-Jun-1975,1975.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Jeffrey Hanrahan,M,20,N,,,Jun
+1975.05.25,25-May-1975,1975.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Edward Bassett,M,17,N,10h00,,May
+1975.05.20,20-May 1975,1975.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Bathing,Cindy Jones,F,10,N,,,May
+1974.09.28,28-Sep-1974,1974.0,Unprovoked,USA,California,"North of Point Sur, Monterey County",Surfing,Kirk Johnston,M,17,N,07h30,"White shark, 5.5 m to 6 m [18' to 20'] ",Sep
+1974.09.00,Sep-1974,1974.0,Unprovoked,USA,Oregon,Myers Creek,Surfing,Curt Brown,M,24,N,Morning,"White shark, 4.5 m ",Sep
+1974.08.05,05-Aug-1974,1974.0,Unprovoked,USA,California,"San Gregorio Beach, San Mateo County",Surfing,Robert Sanders,M,,N,,"White shark, 5 m ",Aug
+1974.07.20,20-Jul-1974,1974.0,Unprovoked,USA,Georgia,"Back River, Savannah Beach, Chatham County",Swimming,John Carter,M,17,Y,,small sharks',Jul
+1974.06.20,20-Jun-1974,1974.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,Olive Heaton,F,61,N,08h55,,Jun
+1974.04.12,12-Apr-1974,1974.0,Unprovoked,USA,Florida,"Haulover Beach, Miami-Dade County",Swimming,Stacie Alexander,F,11,N,,,Apr
+1973.12.18,18-Dec-1973,1973.0,Unprovoked,USA,Hawaii,"Kalama Beach, Kihei, Maui",Swimming,Gary W. Floyd,M,,N,,,Dec
+1973.11.24,24-Nov-1973,1973.0,Unprovoked,USA,Florida,"Ormond By The Sea, Volusia County",Surfing,Chip Trout,M,13,N,Afternoon,,Nov
+1973.01.09,09-Jan-1973,1973.0,Unprovoked,USA,Hawaii,"Ho'okipa Beach, Pa'ia, Maui",Surfing,Robert Sterling,M,,N,,1.2 m to 1.8 m [4' to 6'] shark observed in area,Jan
+1972.10.14.a,14-Oct-1972,1972.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kenneth Hiles,M,17,N,,,Oct
+1972.09.09,09-Sep-1972,1972.0,Unprovoked,USA,California,"Point Sur, Monterey County",Surfing,Hans Kretschmer,M,,N,10h00,"White shark, 6 m [20'] ",Sep
+1972.08.29,29-Aug-1972,1972.0,Unprovoked,USA,Florida,"Crescent Beach, St. Johns County",Surfing,Mark Van Leer,M,15,N,Evening,,Aug
+1972.06.10,10-Jun-1972,1972.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,Richard Salick,M,22,N,11h30,4.5' shark,Jun
+1971.10.23,23-Oct-1971,1971.0,Unprovoked,USA,Florida,"Ft. Pierce, St Lucie County",Surfing,"Walter E. Milford, Jr.",M,18,N,Afternoon,5' to 6' shark,Oct
+1971.09.25,25-Sep-1971,1971.0,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Surfing,J. Horner,,17,N,,,Sep
+1970.10.00,Oct-1970,1970.0,Unprovoked,USA,Florida,"Matanzas Inlet, St Johns County",Surfing,Robbie Baker,M,,N,,,Oct
+1970.09.00.c,Sep-1970,1970.0,Unprovoked,USA,South Carolina,,Swimming,Gary Kirakas,M,,N,,"""Dog shark""",Sep
+1969.10.14,14-Oct-1969,1969.0,Unprovoked,USA,Hawaii,Hawaii,Diving,Richard Hegeman,M,,N,Morning,Oceanic whitetip shark,Oct
+1969.08.02,02-Aug-1969,1969.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,John. Wilson,M,15,N,Morning,,Aug
+1969.05.24,24-May-1969,1969.0,Provoked,USA,Florida,Sarasota County,Diving,Brian Martel,M,23,N,11h00,Nurse shark,May
+1969.03.09,09-Mar-1969,1969.0,Unprovoked,USA,Hawaii,"Makaha, O'ahu",Surfing,Licius Lee,M,16,N,17h30,"White shark, identified by tooth fragments in surfboard",Mar
+1968.03.10,10-Mar-1968,1968.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Surfing,Jan Icyda,M,20,N,Afternoon,,Mar
+1968.02.26,26-Feb-1968,1968.0,Unprovoked,USA,Florida,Palm Beach County,Surfing,Fred Hennessee,M,17,N,13h30,,Feb
+1967.07.29,29-Jul-1967,1967.0,Unprovoked,USA,Florida,Florida Keys,Snorkeling,Joseph McGonigal,M,20,N,Afternoon,,Jul
+1966.06.04,04-Jun-1966,1966.0,Unprovoked,USA,Texas,Bolivar Peninsula,Swimming,David N. Holmgreen,M,18,N,17h00,a small shark,Jun
+1966.04.08,08-Apr-1966,1966.0,Unprovoked,USA,Puerto Rico,,Swimming,John Seaver,M,25,N,16h30,,Apr
+1966.01.05,05-Jan-1966,1966.0,Unprovoked,USA,Florida,"Hollywood, Broward County",Swimming,George A. C. Scherer,M,35,N,16h00,Hammerhead shark,Jan
+1965.08.26,26-Aug-1965,1965.0,Unprovoked,USA,New Jersey,"Steel Pier, Atlantic City, Atlantic County",Swimming,"James Bloodworth, Jr.",M,15,N,17h30,,Aug
+1964.08.26,26-Aug-1964,1964.0,Unprovoked,USA,Florida,"Hollywood Beach, Broward County",Swimming,Marc Tayman,M,14,N,14h30,,Aug
+1964.08.21,21-Aug-1964,1964.0,Unprovoked,USA,Florida,"Panama City, Bay County",Swimming,Ron Kopenski,M,,N,11h30,3' shark,Aug
+1963.07.15,15-Jul-1963,1963.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Bathing,Robert Driscoll,M,14,N,Late afternoon,,Jul
+1963.04.20,20-Apr-1963,1963.0,Unprovoked,USA,US Virgin Islands,"St. Thomas, Magens Bay",Swimming,Naval Lt. (jg) John Gibson,M,25,Y,13h50,"Hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] Galapagos shark, C. galapagensis",Apr
+1961.08.20,20-Aug-1961,1961.0,Unprovoked,USA,California,"Portuguese Beach at mouth of Salmon Creek, Sonoma County",Swimming,David Vogensen,M,16,N,09h30 / 15h30,"White shark, 4 m [13'] ",Aug
+1960.06.04,04-Jun-1960,1960.0,Unprovoked,USA,Georgia,"North picnic area, Jekyll Island, Glynn County",Swimming,"John William Jones, an Ensign in US Navy",M,24,N,15h45,,Jun
+1959.03.29,29-Mar-1959,1959.0,Unprovoked,USA,Florida,"Vaca Cut Channel & bridge under Marathon, Monroe County",Swimming,James McKee,M,13,N,14h30,,Mar
+1957.07.15,15-Jul-1957,1957.0,Unprovoked,USA,North Carolina,"Salter Path, Atlantic Beach, Carteret County",Swimming,Rupert Wade,M,57,Y,15h15,White shark,Jul
+1957.04.28,28-Apr-1957,1957.0,Unprovoked,USA,California,"Atascadero Beach, Morro Bay, San Luis Obispo County",Swimming,Peter Savino,M,25,Y,13h30,White shark,Apr
+1956.07.12,12-Jul-1956,1956.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Eric Rawls,M,7,N,15h00j,,Jul
+1955.08.30.a,30-Aug-1955,1955.0,Provoked,USA,California,"Zuma Beach, Santa Monica, Los Angeles County",Surfing,Dale Strand,M,25,N,,5' thresher or blue shark. The shark  was killed following the incident,Aug
+1954.09.21,21-Sep-1954,1954.0,Unprovoked,USA,California,"La Jolla, San Diego County",Swimming,Clyde Leeper,M,35,N,,1.5 m [5'] shark,Sep
+1953.04.04,04-Apr-1953,1953.0,Unprovoked,USA,Texas,South Padre Island,Swimming,Susan Smith,F,19,N,Afternoon,,Apr
+1952.08.03,03-Aug-1952,1952.0,Unprovoked,USA,Hawaii,"Between Ala Moana Channel & Kewalo Basin, O'ahu",Swimming,Shigeichi Kawamura,M,,Y,,,Aug
+1950.07.10,10-Jul-1950,1950.0,Unprovoked,USA,Texas,Near Port Arthur,Swimming,Mark Majors III,M,11,N,,Hammerhead shark,Jul
+1948.09.19.b,19-Sep-1948,1948.0,Unprovoked,USA,Hawaii,"Off Makapauu Point, O'ahu",Swimming,Noah Kalama,M,,N,,,Sep
+1948.07.01,01-Jul-1948,1948.0,Unprovoked,USA,US Virgin Islands,"St. John, Genti Bay",Swimming,Clide Osborne,M,46,Y,,,Jul
+1947.08.04,04-Aug-1947,1947.0,Unprovoked,USA,Florida,In a canal 10 miles north of St Augustine,Swimming,"Ralph Reginald Rives, Jr.",M,20,Y,A.M.,Possibly C. leucas,Aug
+1945.05.08,08-May-1945,1945.0,Unprovoked,USA,North Carolina,"Ocracoke Inlet, Carteret County",Swimming,Navy seaman,M,,Y,,,May
+1944.09.03,03-Sep-1944,1944.0,Unprovoked,USA,Maryland,North Beach,Swimming,Philip Stanton,M,13,N,,,Sep
+1944.05.31,31-May-1944,1944.0,Unprovoked,USA,Florida,"Atlantic Beach, Mayport,  Duval County",Bathing,Mary Ann Shands,F,15,N,,1.8 m [6'] blacktip shark or spinner shark,May
+1938.07.18,18-Jul-1938,1938.0,Unprovoked,USA,South Carolina,Charleston,Swimming,Maynard Tanner,M,,N,,,Jul
+1937.06.15,    15-Jun-1937,1937.0,Unprovoked,USA,Texas,Galveston,Swimming,"Hal A. Thompson, Jr.",M,14,Y,Night,,Jun
+1936.09.04,04-Sep-1936,1936.0,Unprovoked,USA,Hawaii,"Lahaina, Maui",Swimming,young male,M,,N,,,Sep
+1936.06.06,06-Jun-1936,1936.0,Unprovoked,USA,Florida,"Boca Ciega Bay, Pinellas County",Swimming,,M,,Y,,,Jun
+1935.09.21,21-Sep-1935,1935.0,Unprovoked,USA,North Carolina,"Browns Inlet on New River, Onslow Beach",Swimming,Jere W. Fountain,M,38,Y,20h30,,Sep
+1934.08.05,05-Aug-1934,1934.0,Unprovoked,USA,Georgia,"Thunderbolt, Chatham County",Swimming,"William Aimar, Jr.",M,11,N,,,Aug
+1933.08.28.a,28-Aug-1933,1933.0,Unprovoked,USA,South Carolina,"Pawleys Island, north of Charleston",Bathing,Kenneth Layton,M,,N,,,Aug
+1933.08.26.R,Reported 26-Aug-1933,1933.0,Unprovoked,USA,Connecticut,Mystic River,Swimming,Helen Clarke,F,,N,,,Aug
+1933.04.10,10-Apr-1933,1933.0,Unprovoked,USA,Florida,"Miami Beach, Miami-Dade County",Swimming,Thomas N. Martin,M,24,Y,,Possibly a bull shark or tiger shark,Apr
+1932.02.16,16-Feb-1932,1932.0,Unprovoked,USA,Hawaii,"1 mile off Mala Wharf, Lahaina, Maui",Swimming,"William France, a sailor from U.S. Navy vessel Saratoga",M,,N,,,Feb
+1931.09.21.b,21-Sep-1931,1931.0,Unprovoked,USA,Florida,"Municipal Beach, West Palm Beach, Palm Beach County",Swimming,Sam Barrows,M,,N,,,Sep
+1931.08.18,18-Aug-1931,1931.0,Unprovoked,USA,Texas,Off Brownsville,Swimming,P. Kincaid Zifflewwiggett,M,,N,,,Aug
+1931.08.06.R,Reported 06-Aug-1931,1931.0,Unprovoked,USA,New Jersey,"Sandy Hook (ocean side), Monmouth County",Swimming,"soldier, a private",M,,N,,,Aug
+1931.07.15,15-Jul-1931,1931.0,Unprovoked,USA,New Jersey,"Sea Girt, Monmouth County",Swimming,soldier in NJ National Guard,M,,N,,,Jul
+1930.08.06,06-Aug-1930,1930.0,Unprovoked,USA,Florida,"Palm Beach Inlet, Palm Beach County",Swimming,Captain W. Kemp,M,,N,06h00,,Aug
+1930.07.11,11-Jul-1930,1930.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,William Harns,M,21,N,,Tiger shark,Jul
+1929.08.05,05-Aug-1929,1929.0,Unprovoked,USA,South Carolina,Fort Moultrie,Bathing,"Robert W. McGhee, Private 1st Class, 8th Infantry",M,,N,,,Aug
+1929.03.16,16-Mar-1929,1929.0,Unprovoked,USA,Florida,"Sea Spray, Palm Beach",Swimming,Leroy Chadbourne,M,26,N,12h00,,Mar
+1928.06.24.R,Reported 24-Jun-1928,1928.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Swimming,Jim Stevens,M,,N,,,Jun
+1927.01.08.R,Reported 08-Jan-1927,1927.0,Unprovoked,USA,California,"Catalina Channel, Los Angeles County",Swimming,Price Taylor,M,,N,,,Jan
+1926.08.24,24-Aug-1926,1926.0,Unprovoked,USA,New Jersey,"Seaside, Ocean County",Swimming,Charles A. Burke,M,18,Y,,,Aug
+1926.05.18,18-May-1926,1926.0,Unprovoked,USA,Hawaii,"Hale'iwa, O'ahu",Swimming,William J. Goins,M,,Y,,"White shark, 3.8 m [12.5']  ",May
+1926.04.07,07-Apr-1926,1926.0,Unprovoked,USA,Hawaii,"Hilo Bay Yacht Club, Hilo, Hawai'i",Swimming,Mrs. Leonard Carlsmith,F,,N,17h30,"According to Carlsmith, the shark's mouth was 3' wide",Apr
+1925.08.02,02-Aug-1925,1925.0,Unprovoked,USA,South Carolina,"Folly Island, near Charleston",Swimming,Mrs. Walter H. Kahrs,F,,N,,,Aug
+1925.01.27.R,Reported 27-Jan-1925,1925.0,Unprovoked,USA,Florida,"Miami Beach, Miami-Dade County",Swimming,Frank Chorie,M,,N,,,Jan
+1924.11.21,21-Nov-1924,1924.0,Unprovoked,USA,Puerto Rico,Santurce,Bathing,Professor Winslow,M,35,Y,Late afternon,,Nov
+1922.12.14,14-Dec-1922,1922.0,Unprovoked,USA,Puerto Rico,San Juan,Bathing,Katherine W. Bourne,F,,Y,,,Dec
+1919.08.10,10-Aug-1919,1919.0,Unprovoked,USA,Florida,"Gadsden Point, Tampa Bay",Swimming,George (or Edward) Eaton,M,,N,Afternoon,,Aug
+1917.07.18,18-Jul-1917,1917.0,Unprovoked,USA,Florida,Florida Keys ,Diving,William Sinker,M,,Y,Afternoon,,Jul
+1916.07.13,13-Jul-1916,1916.0,Unprovoked,USA,New York,"Sheepshead Bay, Brooklyn",Swimming,Thomas Richards,M,,N,,,Jul
+1916.07.12.c,12-Jul-1916,1916.0,Unprovoked,USA,New Jersey,"In Matawan Creek, off NJ Clay Company brickyards at Cliffwood, Monmouth County, 9.5 miles from the sea, Monmouth County",Swimming,John Dunn,M,12,N,,Said to involve a 2.7 m [9'] shark,Jul
+1916.07.12.a,12-Jul-1916,1916.0,Unprovoked,USA,New Jersey,"Matawan Creek, 10 miles from the sea, Monmouth County",Swimming,Lester Stillwell,M,10,Y,A.M.,,Jul
+1916.07.06,06-Jul-1916,1916.0,Unprovoked,USA,New Jersey,"Spring Lake, Monmouth County",Swimming,Charles Bruder,M,,Y,Afternoon,Thought to involve a 2.6 m [8.5'] white shark,Jul
+1916.07.01,01-Jul-1916,1916.0,Unprovoked,USA,New Jersey,"Beach Haven, Ocean County",Swimming,Charles E. Vansant,M,24,Y,17h00,Thought to involve a 2.6 m [8.5'] white shark,Jul
+1916.06.30,30-Jun-1916,1916.0,Unprovoked,USA,New Jersey,"Atlantic City, Atlantic County",Swimming,boy,M,10 or 12,N,,,Jun
+1914.09.09,09-Sep-1914,1914.0,Unprovoked,USA,Louisiana,Lake Pontchartrain,Swimming,Peter Kontspoulas,M,17,Y,,,Sep
+1912.08.30,30-Aug-1912,1912.0,Unprovoked,USA,Georgia,"Tybee Island, Chatham County",Swimming,Edward Coffee,M,12,Y,,,Aug
+1912.07.23,23-Jul-1912,1912.0,Unprovoked,USA,South Carolina,Sullivan's Island,Swimming,Corporal Kirkpatrick,M,,N,Afternoon,8' shark,Jul
+1911.09.17,17-Sep-1911,1911.0,Unprovoked,USA,Florida,"Pablo Beach, Jacksonville, Duval County",Bathing,Harold C. Rood,M,,N,,,Sep
+1909.07.15,15-Jul-1909,1909.0,Unprovoked,USA,Florida,"Panama City, Bay County",Swimming,Henry Munson,M,16,N,,,Jul
+1906.10.10.c.R,Reported 10-Oct-1906,1906.0,Unprovoked,USA,Hawaii,,Swimming,skipper of a coasting schooner,M,,Y,,,Oct
+1906.10.10.b.R,Reported 10-Oct-1906,1906.0,Unprovoked,USA,Hawaii,,Diving,a native,M,,N,,,Oct
+1906.10.10.a.R,Reported 10-Oct-1906,1906.0,Unprovoked,USA,Hawaii,,Swimming,a sailor,M,,Y,,,Oct
+1906.07.05.R,Reported 05-Jul-1906,1906.0,Unprovoked,USA,Mississippi,"Bay St. Louis, Hancock County",Swimming,a St. Stanislaus College student,M,,Y,,Fishermen recovered partial remains from shark a week later,Jul
+1905.05.22,22-May-1905,1905.0,Unprovoked,USA,Florida,"Pablo Beach, Jacksonville, Duval County",Swimming,Dunham Coxetter,M,,N,,,May
+1904.07.27,27-Jul-1904,1904.0,Unprovoked,USA,Texas,,Swimming,Chester Kennedy,M,,Y,,,Jul
+1902.07.06,06-Jul-1902,1902.0,Provoked,USA,New Jersey,"Atlantic City, Atlantic County",Swimming,Harry M. Speerman,M,,N,,,Jul
+1900.09.13,13-Sep-1900,1900.0,Unprovoked,USA,Rhode Island,Coddington Cove,Diving,George Brown,M,,UNKNOWN,, ,Sep
+1900.08.21,21-Aug-1900,1900.0,Unprovoked,USA,North Carolina,"Southport, Brunswick County",Bathing,Burris,M,,N,Afternoon,,Aug
