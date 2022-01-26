@@ -1,6 +1,5 @@
-[!gif](https://i.giphy.com/media/IgqoVplwqwr8nWs3VK/giphy.gif)
 
-
+![Jaws](https://i.giphy.com/media/IgqoVplwqwr8nWs3VK/giphy.gif)
 # Project | data-cleaning-pandas
 
 En este proyecto, se empieza con una base de datos de ataques de tiburones y se analizan dos hipótesis sobre estos datos:
