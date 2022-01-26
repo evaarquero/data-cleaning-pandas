@@ -24,8 +24,7 @@ Hacer limpieza de los datos, para hipotesis 2, `clean-hypo2.ipynb`:
 
 ## Visualization
 
-Draw at least two graphs that are insightful.
-Show data that validates the conclusions based on your hypoteses in a file named 'analysis.ipynb'
+Cuando tengo todos los datos necesarios, hecho todas mis tablas e imagenes de visualizaciones. `analysis.ipynb`
 
 
 #### Hypotesis extras.
