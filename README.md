@@ -10,7 +10,7 @@ En este proyecto, se empieza con una base de datos de ataques de tiburones y se 
 ## Cleaning
 Para llegar a estas dos hipotesis:
 
-- Exploracion y analisis de todas las columnas, ademas de las que me interesan para el estudio. Este estudio se encuentra en `exploring.ipynb`
+- Exploracion y analisis de todas las columnas, ademas de las que me interesan para el estudio. Este estudio se encuentra en `Exploring.ipynb`
 - Hacer limpieza de los datos, para hipotesis 1, `clean-hypo1.ipynb`:
     - Modificar nombre de columnas
     - Revisar las fechas que me interesan
@@ -31,8 +31,8 @@ Cuando tengo todos los datos necesarios, hecho todas mis tablas e imagenes de vi
 
 1. Hipothesis 1: Los ataques de tiburón han sido menos fatales(menos muertes) en los últimos años.(¿comparativa de ratio ataques, muertes?) 
 2. Hipotesis 2: Los ataques de tiburón son más recurrentes en los meses de verano. 
-3. Hipotesis 3: El reporte de mujeres se ha dado en el último siglo, ya que estas no estaban vinculadas a practicas en el mar.
-4. Hipotesis 4: Es el Oceano atlatico más mortifero que el Oceano pacifico? 
+3. Hipotesis 1-2: El reporte de mujeres se ha dado en el último siglo, ya que estas no estaban vinculadas a practicas en el mar.
+4. Hipotesis 2-2: Es el Oceano atlatico más mortifero que el Oceano pacifico? 
 
 ## Linls~References
 
