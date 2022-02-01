@@ -1,4 +1,4 @@
-Case_number,Date,Year,Type,Country,Area,Location,Activity,Name,Sex,Age,Fatality,Time,Species,Month,Coast
+Case_number,Date,Year,Type,Country,Area,Location,Activity,Name,Sex,Age,Fatality,Time,Species,Month,Ocean
 2018.06.25,25-Jun-2018,2018.0,Boating,USA,California,"Oceanside, San Diego County",Paddling,Julie Wolfe,F,57,N,18h00,White shark,Jun,In Pacific
 2018.06.18,18-Jun-2018,2018.0,Unprovoked,USA,Georgia,"St. Simon Island, Glynn County",Standing,Adyson McNeely ,F,11,N,14h00  -15h00,,Jun,In Atlantic and Caribean
 2018.06.09,09-Jun-2018,2018.0,Invalid,USA,Hawaii,"Habush, Oahu",Surfing,John Denges,M,48,N,07h45,,Jun,In Atlantic and Caribean

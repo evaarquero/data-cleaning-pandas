@@ -16,8 +16,8 @@ Para llegar a estas dos hipotesis:
     - Revisar las fechas que me interesan
     - Categorizar la fatalidad y el genero. 
 
-Hacer limpieza de los datos, para hipotesis 2, `clean-hypo2.ipynb`:
-     - Modificar nombre de columnas
+- Hacer limpieza de los datos, para hipotesis 2, `clean-hypo2.ipynb`:
+    - Modificar nombre de columnas
      - Revisar las fechas que me interesan
      - Coger de la fecha, el mes en que ocurrió. Deshechar valores que no tienen mes. 
      - Utilizar un pais cómo pieza para analisis de las temporadas con más ataques por tiburones.  
@@ -31,19 +31,8 @@ Cuando tengo todos los datos necesarios, hecho todas mis tablas e imagenes de vi
 
 #### Hypotesis extras.
 
-1. Hipothesis 1: Los ataques de tiburón han sido menos fatales(menos muertes) en los últimos años.(¿comparativa de ratio ataques, muertes?) 
--  Hipotesis 1-2: El reporte de mujeres se ha dado en el último siglo, ya que estas no estaban vinculadas a practicas en el mar.
+1. Hipothesis 1: Los ataques de tiburón han sido menos fatales(menos muertes) en los últimos años.
+    -  Hipotesis 1-2: El reporte de mujeres se ha dado en el último siglo, ya que estas no estaban vinculadas a practicas en el mar.
 2. Hipotesis 2: Los ataques de tiburón son más recurrentes en los meses de verano. 
--  Hipotesis 2-2: Es el Oceano atlatico más mortifero que el Oceano pacifico? 
+    -  Hipotesis 2-2: Es el Oceano atlatico más mortifero que el Oceano pacifico? 
 
-## Linls~References
-
-https://www.kaggle.com/teajay/global-shark-attacks
-https://numpy.org/doc/1.18/
-https://pandas.pydata.org/
-https://docs.python.org/3/library/functions.html
-https://plotly.com/python/
-https://matplotlib.org/
-https://seaborn.pydata.org/
-https://pandas.pydata.org/docs/
-https://towardsdatascience.com/beware-of-storytelling-with-data-1710fea554b0?gi=537e0c10d89e
